@@ -1,6 +1,6 @@
 # Welcome!
 
-[![](img/QMEL_Lab_logo2.png)](ineecolab.github.io){fig-alt="QMEL lab website"}
+[![](img/QMEL_Lab_logo2.png){fig-align="left" width="25%"}](ineecolab.github.io){fig-alt="QMEL lab website"}
 
 <br> This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire.\
 
