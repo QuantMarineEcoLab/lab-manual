@@ -3,18 +3,18 @@ project:
   output-dir: _book
   
 book:
-  title: "Faylab Lab Manual"
-  author: "Gavin Fay & Ashleigh Novak"
+  title: "Quantitative Marine Ecology Lab Manual"
+  author: "Easton R. White"
   date: last-modified 
-  description: "This is the lab manual for the Fay Lab at the University of Massachusetts Dartmouth School for Marine Science and Technology" 
+  description: "This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire" 
   
   page-footer:
     left: |
-      <a href="http://www.smast.umassd.edu/lab_fay/">The Fay lab</a>
+      <a href="https://quantmarineecolab.github.io/">QuantMarineEcoLab</a>
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  site-url: https://thefaylab.github.io/lab-manual/
-  repo-url: https://github.com/thefaylab/lab-manual
+  site-url: https://quantmarineecolab.github.io/lab-manual/
+  repo-url: https://github.com/QuantMarineEcoLab/lab-manual
   repo-actions: [edit,issue]
 
   chapters: 
