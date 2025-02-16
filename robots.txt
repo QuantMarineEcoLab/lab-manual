@@ -1,1 +1,1 @@
-Sitemap: https://thefaylab.github.io/lab-manual/sitemap.xml
+Sitemap: https://quantmarineecolab.github.io/lab-manual/sitemap.xml
