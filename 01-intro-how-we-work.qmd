@@ -10,6 +10,13 @@ bibliography: references.bib
 ## QMEL flywheel
 
 
+## SDGs
+
+In 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. As members of QMEL, we contribute to these goals, especially Quality Education, Life Below Water, and Peace, Justice, and Strong Institutions.
+
+![](https://digitalcommons.imsa.edu/assets/md5images/e64175b83ab6b9dfdfdd959a642d576e.png)
+
+
 ## Readings
 
 See the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:
