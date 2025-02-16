@@ -22,17 +22,20 @@ book:
     - 01-intro-how-we-work.qmd
     - 02-lab-culture-philosophy.qmd
     - 03-code-of-conduct.qmd
-    - 04-onboarding.qmd
-    - 05-expectations.qmd
-    - 06-offboarding.qmd
-    - 07-funding.qmd
-    - 08-communication.qmd
-    - 09-academics.qmd
-    - 10-courses.qmd
-    - 11-computing.qmd
-    - 12-umassd-resources.qmd
-#    - 13-smast-resources.qmd
-#    - 14-other-faylab-resources.qmd  
+    - 04-recruitment.qmd
+    - 05-onboarding.qmd
+    - 06-training-undergrads-and-interns.qmd
+    - 07-traning-grad-students.qmd
+    - 08-training-postdocs-and-staff.qmd
+    - 09-training-lab-leader.qmd
+    - 10-producing-quality-work.qmd
+    - 11-scicomm-and-outreach.qmd
+    - 12-grants.qmd
+    - 13-money.qmd
+    - 14-offboarding.qmd
+    - 15-UNH-and-Durham.qmd
+    - 16-lab-manual-inspiration
+
 
 
 # not sure what the following line does; those files are present
