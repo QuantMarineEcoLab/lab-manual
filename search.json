@@ -30,11 +30,21 @@
     ]
   },
   {
+    "objectID": "01-intro-how-we-work.html#sdgs",
+    "href": "01-intro-how-we-work.html#sdgs",
+    "title": "2  Introduction",
+    "section": "2.3 SDGs",
+    "text": "2.3 SDGs\nIn 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. As members of QMEL, we contribute to these goals, especially Quality Education, Life Below Water, and Peace, Justice, and Strong Institutions.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
     "objectID": "01-intro-how-we-work.html#readings",
     "href": "01-intro-how-we-work.html#readings",
     "title": "2  Introduction",
-    "section": "2.3 Readings",
-    "text": "2.3 Readings\nSee the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:\n\nOur path to better science in less time using open data science tools (Lowndes et al. 2017)\nGood enough practices in scientific computing (Wilson et al. 2017)\n\n[To come: recommended reading list]",
+    "section": "2.4 Readings",
+    "text": "2.4 Readings\nSee the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:\n\nOur path to better science in less time using open data science tools (Lowndes et al. 2017)\nGood enough practices in scientific computing (Wilson et al. 2017)\n\n[To come: recommended reading list]",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -43,8 +53,8 @@
     "objectID": "01-intro-how-we-work.html#shared-lab-resources",
     "href": "01-intro-how-we-work.html#shared-lab-resources",
     "title": "2  Introduction",
-    "section": "2.4 Shared lab resources",
-    "text": "2.4 Shared lab resources\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Sharepoint folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.\n\nLab Sharepoint/One Drive",
+    "section": "2.5 Shared lab resources",
+    "text": "2.5 Shared lab resources\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Sharepoint folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.\n\nLab Sharepoint/One Drive",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -53,8 +63,8 @@
     "objectID": "01-intro-how-we-work.html#references",
     "href": "01-intro-how-we-work.html#references",
     "title": "2  Introduction",
-    "section": "2.5 References",
-    "text": "2.5 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "section": "2.6 References",
+    "text": "2.6 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -97,6 +107,26 @@
     "text": "Request access to the QMEL Google Drive and Sharepoint folders\nRequest to join the lab Slack group. This may also involve joining the Department of Biological Sciences Slack group\nJoin related listserves (links TBD)\nIf needed, submit I-9 paperwork and direct deposit paperwork\nAdd or update your biography on the lab website\nObtain keys from Lisa for both your personal office and the lab space",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "06-training-undergrads-and-interns.html",
+    "href": "06-training-undergrads-and-interns.html",
+    "title": "7  Training undergrads and interns",
+    "section": "",
+    "text": "7.1 Welcome\nWelcome to QMEL! We typically host very few undergraduate researchers or interns. During the academic year, we might have 1-2 students completing a thesis or independent project.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Training undergrads and interns</span>"
+    ]
+  },
+  {
+    "objectID": "06-training-undergrads-and-interns.html#expectations",
+    "href": "06-training-undergrads-and-interns.html#expectations",
+    "title": "7  Training undergrads and interns",
+    "section": "7.2 Expectations",
+    "text": "7.2 Expectations",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Training undergrads and interns</span>"
     ]
   },
   {
