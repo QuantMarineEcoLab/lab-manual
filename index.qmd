@@ -1,18 +1,24 @@
 # Welcome!
 
-Welcome to our book of magical secrets.
+[![](img/QMEL_Lab_logo2.png)](ineecolab.github.io){fig-alt="QMEL lab website"}
 
 <br> This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire.\
+
 Our work focuses on how to use quantitative tools to understand marine systems. We have three core lab themes: improving environmental monitoring, understanding how ecosystems respond to extreme events, and how to improve environmental data science education. More about our group can be found on our [website](https://quantmarineecolab.github.io/){target="_blank"}.
 
-This lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Easton (easton.white\@unh.edu) or make a pull request.
+The purpose of this document is to help ensure a more seamless transition into the lab. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document in order to help future lab members. If you have suggestions for additions or changes, please [add a New Issue](https://github.com/QuantMarineEcoLab/lab-manual/issues/new) or contact Easton (easton.white\@unh.edu). QMEL lab members can also [provide anonymous feedback here](https://forms.office.com/pages/responsepage.aspx?id=kxgk1i1R3EaNK75H4l9WZiusjT3KS5pIh_XMBTmNNFdUMlRKRUJKSjNFSktFVDlVM1g4T1hXWFU0NCQlQCN0PWcu&route=shorturl). 
+
+Wherever possible, this document includes links to other resources and documents on campus. This is to reduce overlap in effort and to keep everything up to date. Here are two of the most important:
+
+- [UNH Graduate School](https://gradschool.unh.edu/student-resources)
+- [DBS Grad Student Handbooks](https://colsa.unh.edu/biological-sciences/key-documents) - parts of these feel out of date
+
+
+QMEL has had a lab manual since its inception, but we used this [template from the Fay Lab](https://github.com/thefaylab/lab-manual) starting in 2025. They built it as part of the [Openscapes Champions program](https://openscapes.org){target="_blank"}.\
 
 <br>
 
-QMEL has had a lab manual since its inception, but we used this template from the Fay Lab starting in 2025. They built it as part of the [Openscapes Champions program](https://openscapes.org){target="_blank"}.\
-
-
-[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/thefaylab/lab-manual){target="_blank"} \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it){target="_blank"}!
+[![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){fig-align="left" width="35px"}](https://github.com/QuantMarineEcoLab/lab-manual){target="_blank"} \< link to this book's GitHub repository. Also see [Quick steps to making a copy of the original lab manual and publishing it](https://github.com/thefaylab/lab-manual/wiki/Quick-steps-to-making-a-copy-of-the-lab-manual-&-publishing-it){target="_blank"}!
 
 
 ------------------------------------------------------------------------
