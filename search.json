@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Quantitative Marine Ecology Lab Manual",
     "section": "",
-    "text": "1 Welcome!\nWelcome to our book of magical secrets.\n This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire.\nOur work focuses on how to use quantitative tools to understand marine systems. We have three core lab themes: improving environmental monitoring, understanding how ecosystems respond to extreme events, and how to improve environmental data science education. More about our group can be found on our website.\nThis lab manual resource is intended to provide an overview for lab members and others about how we do our work, and our expectations for our team. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact Easton (easton.white@unh.edu) or make a pull request.\n\nQMEL has had a lab manual since its inception, but we used this template from the Fay Lab starting in 2025. They built it as part of the Openscapes Champions program.\n\n &lt; link to this book’s GitHub repository. Also see Quick steps to making a copy of the lab manual and publishing it!\n\nThis lab is licensed under a Creative Commons Attribution 4.0 International License.",
+    "text": "1 Welcome!\n\n This is the lab manual for the Quantitative Marine Ecology Lab at the University of New Hampshire.\n\nOur work focuses on how to use quantitative tools to understand marine systems. We have three core lab themes: improving environmental monitoring, understanding how ecosystems respond to extreme events, and how to improve environmental data science education. More about our group can be found on our website.\nThe purpose of this document is to help ensure a more seamless transition into the lab. The document is a living document and is by no means exhaustive. The goal is simply to try and get members of the lab on the same page and to help you be successful. You are encouraged to make additions and edits to this document in order to help future lab members. If you have suggestions for additions or changes, please add a New Issue or contact Easton (easton.white@unh.edu). QMEL lab members can also provide anonymous feedback here.\nWherever possible, this document includes links to other resources and documents on campus. This is to reduce overlap in effort and to keep everything up to date. Here are two of the most important:\n\nUNH Graduate School\nDBS Grad Student Handbooks - parts of these feel out of date\n\nQMEL has had a lab manual since its inception, but we used this template from the Fay Lab starting in 2025. They built it as part of the Openscapes Champions program.\n\n\n &lt; link to this book’s GitHub repository. Also see Quick steps to making a copy of the original lab manual and publishing it!\n\nThis lab is licensed under a Creative Commons Attribution 4.0 International License.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome!</span>"
     ]
@@ -14,27 +14,27 @@
     "href": "01-intro-how-we-work.html",
     "title": "2  Introduction",
     "section": "",
-    "text": "2.1 How we meet\nWe do rigorous quantitative science to support decision-making for living marine resource management. We conduct our work using Open Data Science principles, emphasizing scientific excellence (not perfection) that is transparent, reproducible, collaborative, and ethical. We aim to make our methods and results available and support ongoing learning.\nOur quantitative work is based on statistical thinking, using evidence-based approaches to compare among alternatives for models and management options.\nSee the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:\n[To come: recommended reading list]\nCurrently, we meet virtually by Zoom for weekly lab meetings and individual meetings with Gavin. In previous years, we have met for Shut Up and Write sessions to practice and make progress on our writing. More recently, writing workshops have taken place during some of our lab meetings.\nWe use Googledocs to set agendas, record decisions made, and outline action items during meetings. Each lab member has their own google doc for their 1:1 meetings with Gavin. Prior to each meeting, create your agenda for that meeting there.",
+    "text": "2.1 Essential intent",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
-    "objectID": "01-intro-how-we-work.html#how-we-give-feedback",
-    "href": "01-intro-how-we-work.html#how-we-give-feedback",
+    "objectID": "01-intro-how-we-work.html#qmel-flywheel",
+    "href": "01-intro-how-we-work.html#qmel-flywheel",
     "title": "2  Introduction",
-    "section": "2.2 How we give feedback",
-    "text": "2.2 How we give feedback\nFeedback, both giving and receiving it, is an important aspect of our lab. Most of the feedback we give and receive is when giving and attending practice talks. We expect feedback to be supportive but constructive.\nThis resource from UBC does a really great job of outlining the main points of how to give and receive feedback.",
+    "section": "2.2 QMEL flywheel",
+    "text": "2.2 QMEL flywheel",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
-    "objectID": "01-intro-how-we-work.html#how-we-share-things-and-send-them-to-gavin",
-    "href": "01-intro-how-we-work.html#how-we-share-things-and-send-them-to-gavin",
+    "objectID": "01-intro-how-we-work.html#readings",
+    "href": "01-intro-how-we-work.html#readings",
     "title": "2  Introduction",
-    "section": "2.3 How we share things (and send them to Gavin)",
-    "text": "2.3 How we share things (and send them to Gavin)\nWe think it is useful to have standard ways of sharing things. These don’t always have to be followed but are a useful guide and will make things easier. When sending material to someone, always make sure to describe what you are sending and try to make it as easy as possible for them to help you.\nTaking a project-based approach to organizing your work makes it easier to share and solicit feedback from others, as things tend to be self-contained. Try to keep only 1 working instance of material, and use some form of version control to facilitate this (see recommendations in Wilson et. al paper linked above).\nProject management tools in Github are a good way to record and document questions on analyses. Use ‘Issues’ on github repositories for project-related tasks and problems. Alternatively, make use of a GoogleDoc for each project to record this history, much like you would a lab notebook.\nCode: can be shared via Github repositories, or via a dedicated Google Drive folder. For specific questions on problems, please try to create a minimal reproducible example. Ensure that others can run and interact with the material being shared.\nWriting: Preferably via GoogleDoc, R Markdown, or Overleaf, but MS Word documents can also be shared. Google docs are particularly useful for collaborative writing, and have the advantage of there only ever being one version (as opposed to files that are sent around via email). Word documents should always have your last name as the first part of the file name (e.g. please no “mythesis.doc”).\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Google Drive folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.",
+    "section": "2.3 Readings",
+    "text": "2.3 Readings\nSee the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:\n\nOur path to better science in less time using open data science tools (Lowndes et al. 2017)\nGood enough practices in scientific computing (Wilson et al. 2017)\n\n[To come: recommended reading list]",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "01-intro-how-we-work.html#shared-lab-resources",
     "title": "2  Introduction",
     "section": "2.4 Shared lab resources",
-    "text": "2.4 Shared lab resources\n\nLab Sharepoint/One Drive",
+    "text": "2.4 Shared lab resources\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Sharepoint folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.\n\nLab Sharepoint/One Drive",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
