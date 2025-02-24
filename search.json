@@ -94,7 +94,7 @@
     "href": "05-onboarding.html",
     "title": "6  Onboarding",
     "section": "",
-    "text": "6.1 First steps\nWelcome to QMEL and the University of New Hampshire!\nHere are some resources to help you get settled into the Lab.\nOur group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to SMAST seamless and enjoyable. Most importantly, welcome!\nIf you are already a student, post-doc, or researcher we hope these resources prove useful as well.\nIn addition to the lab manual, all lab members should verify they have completed the following lab onboarding steps:",
+    "text": "6.1 First steps\nWelcome to QMEL and the University of New Hampshire!\nHere are some resources to help you get settled into the Lab.\nOur group is excited that you have decided to join our team! We hope that these onboarding resources, guidelines, and tips will make your transition to SMAST seamless and enjoyable. Most importantly, welcome!\nIf you are already a student, post-doc, or researcher we hope these resources prove useful as well.\nIn addition to reading through this lab manual, all lab members should verify they have completed the following lab onboarding steps:",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
     ]
@@ -104,7 +104,17 @@
     "href": "05-onboarding.html#first-steps",
     "title": "6  Onboarding",
     "section": "",
-    "text": "Request access to the QMEL Google Drive and Sharepoint folders\nRequest to join the lab Slack group. This may also involve joining the Department of Biological Sciences Slack group\nJoin related listserves (links TBD)\nIf needed, submit I-9 paperwork and direct deposit paperwork\nAdd or update your biography on the lab website\nObtain keys from Lisa for both your personal office and the lab space",
+    "text": "If needed, submit I-9 paperwork and direct deposit paperwork\nRequest access to the QMEL Sharepoint folder\nRequest to join the lab Slack group\nRequest to join the Department of Biological Sciences Slack group (grad students and postdocs only)\nCreate a Github account and request push access to the lab Github account.\nAdd or update your biography on the lab website.\nObtain keys from Lisa for both your personal office and the lab space if applicable",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "05-onboarding.html#stay-informed",
+    "href": "05-onboarding.html#stay-informed",
+    "title": "6  Onboarding",
+    "section": "6.2 Stay informed",
+    "text": "6.2 Stay informed\n\nUniversity listserves and information\nSMSOE weekly newsletter - Reach out to marine.information@unh.edu\nGraduate student and postdoc weekly newsletter - Reach out to grad.school@unh.edu\nExternal listserves\nEcolog - job and information board for ecologists\nidealist - job board for non-profits and similar groups",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
     ]
@@ -113,8 +123,8 @@
     "objectID": "05-onboarding.html#core-readings",
     "href": "05-onboarding.html#core-readings",
     "title": "6  Onboarding",
-    "section": "6.2 Core readings",
-    "text": "6.2 Core readings\n\nBook: Deep Work\nBook: How to Write a Lot\nLab papers of the last five years",
+    "section": "6.3 Core readings",
+    "text": "6.3 Core readings\n\nBook: Deep Work\nBook: How to Write a Lot\nLab papers of the last five years",
     "crumbs": [
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Onboarding</span>"
     ]
