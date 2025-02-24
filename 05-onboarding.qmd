@@ -12,16 +12,24 @@ If you are already a student, post-doc, or researcher we hope these resources pr
 
 ## First steps
 
+In addition to reading through this lab manual, all lab members should verify they have completed the following lab onboarding steps:
 
-
-In addition to the lab manual, all lab members should verify they have completed the following lab onboarding steps:
-
-- Request access to the QMEL Google Drive and Sharepoint folders
-- Request to join the lab Slack group. This may also involve joining the Department of Biological Sciences Slack group
-- Join related listserves (links TBD)
 - If needed, submit I-9 paperwork and direct deposit paperwork
-- Add or update your biography on the lab website
-- Obtain keys from Lisa for both your personal office and the lab space
+- Request access to the [QMEL Sharepoint folder](https://universitysystemnh.sharepoint.com/teams/QuantMarineEcologyLab/SitePages/ProjectHome.aspx)
+- Request to join the lab Slack group
+- Request to join the Department of Biological Sciences Slack group (grad students and postdocs only)
+- Create a [Github account](https://github.com/) and request push access to the [lab Github account](https://github.com/QuantMarineEcoLab).
+- Add or update your [biography on the lab website](https://quantmarineecolab.github.io/team/). 
+- Obtain keys from Lisa for both your personal office and the lab space if applicable
+
+## Stay informed 
+
+- University listserves and information
+ * SMSOE weekly newsletter - Reach out to [marine.information@unh.edu](mailto:marine.information@unh.edu)
+ * Graduate student and postdoc weekly newsletter - Reach out to [grad.school@unh.edu](mailto:grad.school@unh.edu)
+- External listserves
+ * [Ecolog - job and information board for ecologists](https://esa.org/membership/ecolog/)
+ * [idealist - job board for non-profits and similar groups](https://www.idealist.org/en)
 
 
 ## Core readings
