@@ -27,17 +27,23 @@ As a land-­grant institution, the University of New Hampshire (UNH) is accounta
 
 To fulfill its obligations, UNH has embarked on a program on the responsible conduct of [research and scholarly activity (RCR)](http://www.unh.edu/research/responsible-conduct-research-scholarly-activity) to:
 
-    Raise the consciousness of faculty, staff, and students regarding the ethical and responsible conduct of research and scholarly activity;
-    Establish a knowledge base that defines normative and/or professional behavior to assist faculty, staff, and students in making ethical and responsible decisions in the conduct of research and scholarly activity; and
-    Foster an institutional culture of integrity in research and scholarly activity.
+- Raise the consciousness of faculty, staff, and students regarding the ethical and responsible conduct of research and scholarly activity;
+- Establish a knowledge base that defines normative and/or professional behavior to assist faculty, staff, and students in making ethical and responsible decisions in the conduct of research and scholarly activity; and
+- Foster an institutional culture of integrity in research and scholarly activity.
 
 To support these efforts, the Graduate Council has mandated that all incoming Ph.D. students complete RCR training approved by the Graduate School by the end of their first semester. For more information, [visit the RCR website](http://www.unh.edu/research/responsible-conduct-research-scholarly-activity).
 
 #### PhD proposal
 
-At the end of year one or early in year 2, you are expected to formally defend your PhD proposal. The proposal is an opportunity to formalize your PhD plan and receive feedback from the committee. Your PhD path will surely change along the way, so the proposal is exactly that---a proposal. Proposals in QMEL tend to be more detailed than those in other labs. In particular, we write propoosals in "manuscript format" where each chapter is described with an introduction and methods section. 
+At the end of year one or early in year 2 (by the end of year 2 at the latest), you are expected to formally defend your PhD proposal. The proposal is an opportunity to formalize your PhD plan and receive feedback from the committee. Your PhD path will surely change along the way, so the proposal is exactly that---a proposal. Proposals in QMEL tend to be more detailed than those in other labs. In particular, we write propoosals in "manuscript format" where each chapter is described with an introduction and methods section. 
 
-MORE HERE
+There is some information on the PhD proposal [available here for current students](https://universitysystemnh.sharepoint.com/teams/UNHDBS/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FUNHDBS%2FShared%20Documents%2FGraduate%20Students%2FMB%20Program%20Documents&viewid=4c4a5c2a%2D829f%2D4549%2Db195%2D31d0fb25b563). Here are a few key considerations:
+
+- All thesis proposals are limited in length to the signature coversheet plus 20 or fewer double-spaced, single-sided or double-sided, numbered pages in a font size no smaller than 12 point. Proposals longer than this will not be accepted, however, appendices and references are not included in the 15-page limit, and must be numbered separately, using lower-case Roman numerals. 
+- Each chapter must be outlined in the style of a manuscript with a short introduction (including statement of problem and justification for work), clear objectives, and methods that clearly address the objectivs.
+- A clear demonstration of knowledge of the literature with appropriate sources is important.
+
+
 
 
 #### PhD Qualifying Exam 
