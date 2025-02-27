@@ -1,2 +1,24 @@
 # Offboarding {#offboarding}
 
+We have a document in the shared Google drive focused on lab
+offboarding, the process that describes what happens when someone leaves
+the lab. Here is a brief summary of the process.
+
+-   Ensure that all data (including raw data sheets) and code is
+    available in a public repository or in the QuantMarineEcoLab Github,
+    GoogleDrive, or Sharepoint folders
+-   Ensure that your data (if applicable) has appropriate metadata
+    (e.g., describing columns in your data)
+    <https://knb.ecoinformatics.org/about>
+-   Develop a plan for next steps (if appropriate) for your project in
+    collaboration with your mentor and Easton
+-   Return any lab equipment (e.g., books, computer accessories, field
+    equipment)
+-   Return office keys to Easton or the department
+-   Complete a progress assessment form
+    <https://unh.az1.qualtrics.com/jfe/form/SV_8B3OVWv6ZvPofcy>
+-   Compile a list (of activities during your time in the lab) of all
+    your grants awarded, publications submitted and accepted, classes
+    taught, and outreach activities (this can be take from your previous
+    progress updates)
+-   Set up an exit interview with your direct mentor and/or Easton

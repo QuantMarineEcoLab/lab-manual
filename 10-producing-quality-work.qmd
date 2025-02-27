@@ -1,2 +1,45 @@
 # Producing quality work {#producing-quality-work}
 
+For better or worse, publications are a key currency in science. They
+are one of the main ways we track scientific progress and individual
+production. Authorship on papers can be one of the most fraught topics
+and is therefore often ignored until the last minute. This is a bad
+strategy and only leads to resentment among co-authors. Therefore,
+authorship (in terms of composition and order) should be determined at
+the onset of the project. The specifics might change throughout the
+project, but it is key to have a starting point to work with from the
+start. The term “significant scientific contributions” is often used for
+defining who should be included as an author. In this lab, we use the
+definition from the International Committee of Medical Journal Editors
+(<http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html>):
+The ICMJE recommends that authorship be based on the following 4
+criteria:
+
+-   Substantial contributions to the conception or design of the work;
+    or the acquisition, analysis, or interpretation of data for the
+    work; AND
+-   Drafting the work or revising it critically for important
+    intellectual content; AND
+-   Final approval of the version to be published; AND
+-   Agreement to be accountable for all aspects of the work in ensuring
+    that questions related to the accuracy or integrity of any part of
+    the work are appropriately investigated and resolved. In addition,
+    “the corresponding author is the one individual who takes primary
+    responsibility for communication with the journal during the
+    manuscript submission, peer review, and publication process”.
+
+Thus, simply providing some data or providing minor comments on a
+manuscript do not warrant authorship, but they should still be
+acknowledged. Just because I am your advisor, does not mean I warrant
+authorship on your publications. The same goes for your committee
+members. There will likely be publications that you are involved with
+that I have only a small part in. That being said, the most common order
+(but by no means the only) for authorship in the lab is Grad Student
+Lead, Other Contributors, with the PI as the last author. It is common
+for the grad student lead and the PI to both be corresponding authors.
+
+## Authorship resources
+
+-   <http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html>
+-   <https://www.sciencemag.org/careers/2010/04/conventions-scientific-authorship>
+-   <https://www.sciencemag.org/careers/2021/05/how-navigate-authorship-scientific-manuscripts>

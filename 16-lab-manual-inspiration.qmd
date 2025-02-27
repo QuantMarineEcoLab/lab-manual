@@ -1,2 +1,21 @@
 # Lab manual inspiration {#lab-manual-inspiration}
 
+I drew on a lot of different resources, including other lab manuals and
+websites, for the initial QMEL lab manual. Here is a brief list of some
+of those resources:
+
+
+- [Template from the Fay Lab](https://github.com/thefaylab/lab-manual) 
+- [Openscapes Champions program](https://openscapes.org)
+-   <https://github.com/alylab/labmanual>
+-   <https://www.nature.com/articles/d41586-018-06167-w>
+-   <https://github.com/memobc/memolab-manual>
+-   <https://www.sciencemag.org/careers/2019/08/three-keys-launching-your-own-lab>
+-   <https://www.sciencemag.org/careers/2019/04/want-become-better-mentor-ask-anonymous-feedback>
+-   Mehr S. Lab handbooks tweet thread: Twitter.
+    <https://twitter.com/samuelmehr/status/1139733291899080705>.
+    Accessed 8 Jul 2020
+-   Masters KS, Kreeger PK. Ten simple rules for developing a
+    mentor-mentee expectations document. PLoS Comput Biol.
+    2017;13(9):e1005709. <https://doi.org/10.1371/journal.pcbi.1005709>.
+-   <https://store.aamc.org/downloadable/download/sample/sample_id/99/>
