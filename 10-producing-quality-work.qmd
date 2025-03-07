@@ -43,3 +43,31 @@ for the grad student lead and the PI to both be corresponding authors.
 -   <http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html>
 -   <https://www.sciencemag.org/careers/2010/04/conventions-scientific-authorship>
 -   <https://www.sciencemag.org/careers/2021/05/how-navigate-authorship-scientific-manuscripts>
+
+
+## Advice on writing
+
+Key principles on writing in the lab
+
+- Use active voice 
+- Write clearly and concisely
+- Avoid filler words, long sentences, and weak verbs
+
+Here are some examples of the last bullet:
+
+- Long sentences 
+   - Example: “The connection between sedimentation and flow has been investigated in depth and if cleaning and flow rates are highly correlated this knowledge supports the pressures to maintain frequent cleaning implementations in aquaculture”
+- Filler words
+“The uncertainties lie with how oysters and other bivalves will be influenced by these increased disruptions through the cleaning process.”
+You could write, “The impact of increased cleaning disruptions on oysters and other bivalves is uncertain.”
+“For further identifying health of oysters, we used gaping behavior as a proxy due to its connection to respiration and feeding.”
+You could write, “To assess oyster health, we used gaping behavior as a proxy for respiration and feeding.” – this is a subtle shift, but a few less words makes the sense feel so much smoother
+Verb choice (https://www.aje.com/arc/editing-tip-powerful-verbs/ and https://www.brandeis.edu/writing-program/resources/faculty/handouts/active-verbs-discussing-ideas.html)
+“…the connection to potential benefits have not been investigated."
+You could instead write “…the connection to potential benefits remains unexplored." Often verbs that rely on “have”  or “can” (which are helping (auxiliary) verbs) in the sentence indicate weak verbs.
+“Filter feeders landing on the surrounding cages can lead to declines in food abundances for the bivalves within."
+You could write, "Filter feeders landing on the surrounding cages can reduce food abundance for bivalves."
+“Biofouling is an additional factor associated with cleaning implementation and impede flow rates in cages”
+You could write "Biofouling contributes to cleaning challenges and reduces flow rates in cages."
+
+Several links to be posted soon.
