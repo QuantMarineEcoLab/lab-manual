@@ -1,15 +1,7 @@
 # Grants {#grants}
 
-# General lists of resources/databases
+## General lists of resources/databases
 - [General UNH page for finding funding and building grant-writing skills](https://www.unh.edu/research/research/research-development-resources)
-
-Research and Large center Development office:
-303 Thompson Hall, 105 Main St. Durham, NH 03824
-
-Phone: (603) 862-2410
-
-Email: rlcd.info@unh.edu
-
 - [UNH Funding Database](https://www.unh.edu/research/resources/all?combine&resource_type=All&field_resource_category_tid=156&field_resource_topic_tid=All)
 - [List of internal UNH funds](https://www.unh.edu/research/research/research-development-resources/find-funding/internal-unh-funding-opportunities)
 - [UNH Graduate Student Funding Resouces](https://www.unh.edu/research/research/research-development-resources/find-funding/targeted-needs-programs/resources-graduate-students-seeking-funding)
@@ -18,7 +10,7 @@ Email: rlcd.info@unh.edu
 - [NSF Funding Database](https://beta.nsf.gov/funding/opportunities?f%5b0%5d=student_educator_eligibility:grad)
 - [UNH SMSOE Research, Internship, and Fellowship Funding](https://marine.unh.edu/opportunities)
 
-# Fellowship Lists
+## Fellowship Lists
 * [UNH National Fellowship Office](https://www.unh.edu/fellowships-office/) and their [list of available funding outside the university](https://www.unh.edu/fellowships-office/scholarship-essentials/scholarships)
 * [UNH Fellowships Information](https://gradschool.unh.edu/research/fellowships-awards) on the Dissertation Year Fellowship, Summer Teaching Assistant Fellowship, and Graduate Awards
 * [COLSA-wide grad opportunities](https://colsa.unh.edu/scholarships) Including: Dickie Family Scholarship, Frizzell Fund, and New Hampshire Federation of Garden Clubs Scholarship. Applications open in February. Scholarship timeline on webpage Note: Farrington Fund is specific to NREN students.
@@ -26,7 +18,7 @@ Email: rlcd.info@unh.edu
     * The [Margaret A. Davidson Fellowship](https://coast.noaa.gov/nerrs/research/davidson-fellowship.html) is offered every odd-numbered year (apply in odd-numbered year, begin fellowship in subsequent year).
     * The [Dr. Nancy Foster Scholarship](https://fosterscholars.noaa.gov/) program offered by NOAA is a competitive scholarship for grad students.
 
-# Specific Fellowships
+## Specific Fellowships
 * [Hertz](https://www.hertzfoundation.org/the-fellowship/eligibility-benefits/)
 * [SeekCommons](https://seekcommons.org/fellowship-application.html)
 * [Gillam fellows](https://www.hhmi.org/science-education/programs/gilliam-fellows-program?_hsmi=274178937&_hsenc=p2ANqtz-9cydLIrerOFJozPpOTo_IxNkHkLuUbyMuyJTQKEa6VVLjxBme4cvAyVA5aT92rFTgpv0mwd9NQtEnMs4WrlE6PoG_mww#Eligibility)
@@ -35,7 +27,7 @@ Email: rlcd.info@unh.edu
 * [NOAA fellowships](https://coast.noaa.gov/fellowship/)
     * [Coastal Resilience Fellowship](https://coast.noaa.gov/funding/ira/resilience-challenge/fellowship.html) 2-year fellowship program where you are paired with a mentor and host organization.
 
-# External ecology or ocean related support
+## External ecology or ocean related support
 - [Lerner-Gray Fund for Marine Research Grants Program at the American Museum of Natural History's](https://www.amnh.org/research/richard-gilder-graduate-school/grants.) - due in March each year
 - [National Shellfisheries Association Student Grants](https://www.shellfish.org/grants-and-awards) - several great small money grants for education and research in shellfisheries. Due November each year.
 - [Rafe Sagarin Fund for Innovative Ecology](https://rafeinnovativeecologyfund.org/) - Grant funds for unusual, out-of-the-box approaches to ecology. Due Dec. 1st each year.
@@ -45,12 +37,12 @@ Email: rlcd.info@unh.edu
 - [Northeastern Association of Marine and Great Lakes Laboratories Research Support](http://neamgll.naml.org/members/studentsupport.php)
 - [Society for Ecological Restoration Laderman Grant](https://chapter.ser.org/northeast/emerging-professionals/laderman-student-grant/) - Awards in the field of ecological restoration, offered every 2 years (odd-numbered years). Applications due in March.
 
-# Common Internal UNH Funds
+## Common Internal UNH Funds
 - [SMSOE Graduate Research Fund](https://marine.unh.edu/opportunities/research-funding), up to $5000 for grad/undergrad stipend, supplies, travel. Applications due in March.
 - [Chase Family Peer Mentor Fellowship](https://marine.unh.edu/opportunities/research-funding), $15000 for grad mentorship of undergrad students. Applications due in March.
 - [William R. Spaulding Endowment](https://marine.unh.edu/opportunities/scholarships-fellowships), up to $2000 for research activities conducted at Jackson Estuarine Laboratory. Applications due in March.
 
-# Conference and Travel Funding
+## Conference and Travel Funding
 * **SMSOE Travel and Education Support Program**
 This program is intended to provide partial travel support to present the results of marine science and ocean engineering research at regional, national, and international meetings. Support is available to all School faculty, graduate students, and staff with a strong preference given to graduate students. This program also provides educational support. These requests are treated similarly to travel requests. Application should be submitted at least 30 days prior to travel. For information about available funding, limitations, and application instructions, [click here](https://marine.unh.edu/opportunities/travel-education-funding).
 * **Graduate School Travel Grant**
@@ -58,7 +50,7 @@ The Graduate School is pleased to announce that travel grants are available to a
 * [Northeastern Association of Marine and Great Lakes Laboratories Travel Grant](http://neamgll.naml.org/members/studentsupport.php) Helps fund travel for NE marine research. 
 
 
-# Specific Undergraduate Funding
+## Specific Undergraduate Funding
 * **Undergraduate Research Presentation Grants**
 Over the years, dozens of UNH undergraduates have presented their research findings at conferences and professional meetings nationwide. If you are invited to present at an off-campus venue, you may apply to the Hamel Center for Undergraduate Research for a Research Presentation Grant. These grants support your travel expenses and conference registration fees (not including meals, lodging, or trip insurance).  Award amounts vary based on available funds. [Info Here](https://www.unh.edu/undergrad-research/research-presentation-grants).
 * [Doyle Undergrad Fellowship](https://seagrant.unh.edu/fellowships/doyle-fellowship). New Hampshire Sea Grant's Brian E. Doyle Undergraduate Marine Extension Fellowship offers motivated undergraduates from a range of backgrounds a paid opportunity to work on projects and receive hands-on training and mentorship from NH Sea Grant staff and partners each summer. The fellowship is intended for students who are interested in connecting coastal and marine-related research to extension, education, and communications activities. 
