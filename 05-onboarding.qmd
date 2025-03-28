@@ -41,6 +41,8 @@ Before starting in the lab, there are several good resources you might consider 
 
 - [Lab papers](https://quantmarineecolab.github.io/publications/)
 - [Book series - Monographs in Population Biology](https://press.princeton.edu/series/monographs-in-population-biology?srsltid=AfmBOoqkv1gGzkg26PKr3E_-jybPuH_EOJbaaiUoARjeUaEaKzb4Ndfz)
+- ["Horizon scan papers" - done every year on a variety of topics. Here is just one example](https://www.cell.com/trends/ecology-evolution/fulltext/S0169-5347(19)30299-X?dgcid=raven_jbs_etoc_email)
+- [Dynamic Ecology blog](https://dynamicecology.wordpress.com/)
 
 ### Thinking quantitatively
 
@@ -58,14 +60,16 @@ Before starting in the lab, there are several good resources you might consider 
 - [UNH Aquaculture report](https://colsa.unh.edu/new-hampshire-agricultural-experiment-station/latest-research/inspired-research-reports-nh-agricultural-experiment-station/inspired-aquaculture-report-2024)
 - [Northeast Ocean Data Portal](https://www.northeastoceandata.org/)
 - [NHFG reports](https://www.wildlife.nh.gov/saltwater-fisheries-new-hampshire/marine-fisheries-research-surveys-and-reports)
+- [GBNERR strategic plan](https://www.greatbay.org/wp-content/uploads/2020/01/GBNERR-2020-2025-Mgmt-Plan-DRAFT-01-23-20-LoRez-2.pdf)
 
 
 ### Being productive and sane 
 
-- [Book - Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+- [Book - Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692). All of his books are great, especially *So Good They Can't Ignore You*, *A World Without Email*, and *Slow Productivity*
 - [Book - How to Write A Lot by Paul Silvia](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
 - [Book - A Field Guide to Grad School by Jessica McCrory Calarco](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school)
-- [Book - Pasteur’s Quadrant by Donald Stokes](https://www.brookings.edu/books/pasteurs-quadrant/)
+- [Book - Pasteur’s Quadrant by Donald Stokes](https://www.brookings.edu/books/pasteurs-quadrant/) and a [follow up article on the topic](https://academic.oup.com/pnasnexus/article/1/3/pgac092/6615485)
+- [Good collection of book recommendations here](https://fromphdtolife.com/resources/recommended-reading/)
 
 
 
