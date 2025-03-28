@@ -18,8 +18,8 @@ In addition to reading through this lab manual, all lab members should verify th
 - Request access to the [QMEL Sharepoint folder](https://universitysystemnh.sharepoint.com/teams/QuantMarineEcologyLab/SitePages/ProjectHome.aspx)
 - Request to join the lab Slack group
 - Request to join the Department of Biological Sciences Slack group (grad students and postdocs only)
-- Create a [Github account](https://github.com/) and request push access to the [lab Github account](https://github.com/QuantMarineEcoLab).
-- Add or update your [biography on the lab website](https://quantmarineecolab.github.io/team/). 
+- Create a [Github account](https://github.com/) and request push access (by asking Easton) to the [lab Github account](https://github.com/QuantMarineEcoLab).
+- Add or update your [biography on the lab website](https://quantmarineecolab.github.io/team/) - can email Easton with bio and headshot. 
 - Obtain keys from Lisa for both your personal office and the lab space if applicable
 
 ## Stay informed 
@@ -35,7 +35,35 @@ In addition to reading through this lab manual, all lab members should verify th
 
 ## Core readings
 
+Before starting in the lab, there are several good resources you might consider reading to ease your transition. Feel free to ask Easton or others in the lab what resources they found the most helpful. It will certainly depend on your career stage. We also have hard copies for many of these resources in the lab library.
+
+### Ecology
+
+### Thinking quantitatively
+
+- [Book - The Ecological Detective](https://press.princeton.edu/books/paperback/9780691034973/the-ecological-detective?srsltid=AfmBOorWhtoC1RHcY3t5ahaqXNOGS93DuGb_D9TgZpb1K1D9kdhDOCmX)
+- [Book - A Biologist's Guide to Math Modeling](https://press.princeton.edu/books/hardcover/9780691123448/a-biologists-guide-to-mathematical-modeling-in-ecology-and-evolution?srsltid=AfmBOooMlBswx-iP8Lebg6NcCY-u_xtggCamTJQFzQiz17e4zXy0dXNO)
+- [Book - Relevant sections in The Encyclopedia of Theoretical Ecology](https://press.princeton.edu/books/hardcover/9780691123448/a-biologists-guide-to-mathematical-modeling-in-ecology-and-evolution?srsltid=AfmBOooMlBswx-iP8Lebg6NcCY-u_xtggCamTJQFzQiz17e4zXy0dXNO)
+- [Book series - Monographs in Population Biology](https://press.princeton.edu/series/monographs-in-population-biology?srsltid=AfmBOoqkv1gGzkg26PKr3E_-jybPuH_EOJbaaiUoARjeUaEaKzb4Ndfz)
+
+
+### New Hampshire systems (especially if relevant to your proposed work)
+
+- [PREP State of the Estuaries Report](https://www.stateofourestuaries.org/2023-reports/sooe-report)
+- [UNH Aquaculture report](https://colsa.unh.edu/new-hampshire-agricultural-experiment-station/latest-research/inspired-research-reports-nh-agricultural-experiment-station/inspired-aquaculture-report-2024)
+
+
+### Being productive and sane 
+
 - Book: Deep Work
 - Book: How to Write a Lot
 - Lab papers of the last five years
+
+
+
+
+
+
+
+
 
