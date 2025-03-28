@@ -35,29 +35,37 @@ In addition to reading through this lab manual, all lab members should verify th
 
 ## Core readings
 
-Before starting in the lab, there are several good resources you might consider reading to ease your transition. Feel free to ask Easton or others in the lab what resources they found the most helpful. It will certainly depend on your career stage. We also have hard copies for many of these resources in the lab library.
+Before starting in the lab, there are several good resources you might consider reading to ease your transition. Feel free to ask Easton or others in the lab what resources they found the most helpful. It will certainly depend on your career stage. We also have hard copies for many of these resources in the lab library. 
 
 ### Ecology
+
+- [Lab papers](https://quantmarineecolab.github.io/publications/)
+- [Book series - Monographs in Population Biology](https://press.princeton.edu/series/monographs-in-population-biology?srsltid=AfmBOoqkv1gGzkg26PKr3E_-jybPuH_EOJbaaiUoARjeUaEaKzb4Ndfz)
 
 ### Thinking quantitatively
 
 - [Book - The Ecological Detective](https://press.princeton.edu/books/paperback/9780691034973/the-ecological-detective?srsltid=AfmBOorWhtoC1RHcY3t5ahaqXNOGS93DuGb_D9TgZpb1K1D9kdhDOCmX)
 - [Book - A Biologist's Guide to Math Modeling](https://press.princeton.edu/books/hardcover/9780691123448/a-biologists-guide-to-mathematical-modeling-in-ecology-and-evolution?srsltid=AfmBOooMlBswx-iP8Lebg6NcCY-u_xtggCamTJQFzQiz17e4zXy0dXNO)
 - [Book - Relevant sections in The Encyclopedia of Theoretical Ecology](https://press.princeton.edu/books/hardcover/9780691123448/a-biologists-guide-to-mathematical-modeling-in-ecology-and-evolution?srsltid=AfmBOooMlBswx-iP8Lebg6NcCY-u_xtggCamTJQFzQiz17e4zXy0dXNO)
-- [Book series - Monographs in Population Biology](https://press.princeton.edu/series/monographs-in-population-biology?srsltid=AfmBOoqkv1gGzkg26PKr3E_-jybPuH_EOJbaaiUoARjeUaEaKzb4Ndfz)
+- [Statistical rethinking - a Bayesian course](https://xcelab.net/rm/)
+- [GLMM primer](https://www.sciencedirect.com/science/article/pii/S0169534709000196?via%3Dihub)
+
 
 
 ### New Hampshire systems (especially if relevant to your proposed work)
 
 - [PREP State of the Estuaries Report](https://www.stateofourestuaries.org/2023-reports/sooe-report)
 - [UNH Aquaculture report](https://colsa.unh.edu/new-hampshire-agricultural-experiment-station/latest-research/inspired-research-reports-nh-agricultural-experiment-station/inspired-aquaculture-report-2024)
+- [Northeast Ocean Data Portal](https://www.northeastoceandata.org/)
+- [NHFG reports](https://www.wildlife.nh.gov/saltwater-fisheries-new-hampshire/marine-fisheries-research-surveys-and-reports)
 
 
 ### Being productive and sane 
 
-- Book: Deep Work
-- Book: How to Write a Lot
-- Lab papers of the last five years
+- [Book - Deep Work by Cal Newport](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
+- [Book - How to Write A Lot by Paul Silvia](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433)
+- [Book - A Field Guide to Grad School by Jessica McCrory Calarco](https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school)
+- [Book - Pasteur’s Quadrant by Donald Stokes](https://www.brookings.edu/books/pasteurs-quadrant/)
 
 
 
