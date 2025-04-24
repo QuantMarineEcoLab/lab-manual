@@ -464,7 +464,17 @@
     "href": "14-offboarding.html",
     "title": "15  Offboarding",
     "section": "",
-    "text": "We have a document in the shared Google drive focused on lab offboarding, the process that describes what happens when someone leaves the lab. Here is a brief summary of the process.\n\nEnsure that all data (including raw data sheets) and code is available in a public repository or in the QuantMarineEcoLab Github, GoogleDrive, or Sharepoint folders\nEnsure that your data (if applicable) has appropriate metadata (e.g., describing columns in your data) https://knb.ecoinformatics.org/about\nDevelop a plan for next steps (if appropriate) for your project in collaboration with your mentor and Easton\nReturn any lab equipment (e.g., books, computer accessories, field equipment)\nReturn office keys to Easton or the department\nComplete a progress assessment form https://unh.az1.qualtrics.com/jfe/form/SV_8B3OVWv6ZvPofcy\nCompile a list (of activities during your time in the lab) of all your grants awarded, publications submitted and accepted, classes taught, and outreach activities (this can be take from your previous progress updates)\nSet up an exit interview with your direct mentor and/or Easton",
+    "text": "15.1 Exit interview\nHere is a brief summary of the offboarding process (but it looks slightly different for different positions).\nOther questions - What went well? What could be improved in the lab? - Reflections on mentorship, collaboration, and culture. - Career plans + interest in staying connected (e.g., alumni network).",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "14-offboarding.html#exit-interview",
+    "href": "14-offboarding.html#exit-interview",
+    "title": "15  Offboarding",
+    "section": "",
+    "text": "Knowledge transfer\n\nDocument current projects, code, data workflows, protocols\nIdentify what needs to be handed off and to whom\nSchedule handoff meetings for ongoing work\nUpdate lab wiki/Notion/SharePoint with relevant documentation\n\nFuture workplans\n\nReview authorship plans for current and upcoming manuscripts\nClarify responsibilities for revisions, final submissions, or grants\nCommunication approach moving forward",
     "crumbs": [
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Offboarding</span>"
     ]
