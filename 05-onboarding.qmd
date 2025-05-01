@@ -46,6 +46,7 @@ Before starting in the lab, there are several good resources you might consider 
 
 ### Thinking quantitatively
 
+- [Paper - Your first math model](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008539)
 - [Book - The Ecological Detective](https://press.princeton.edu/books/paperback/9780691034973/the-ecological-detective?srsltid=AfmBOorWhtoC1RHcY3t5ahaqXNOGS93DuGb_D9TgZpb1K1D9kdhDOCmX)
 - [Book - A Biologist's Guide to Math Modeling](https://press.princeton.edu/books/hardcover/9780691123448/a-biologists-guide-to-mathematical-modeling-in-ecology-and-evolution?srsltid=AfmBOooMlBswx-iP8Lebg6NcCY-u_xtggCamTJQFzQiz17e4zXy0dXNO)
 - [Book - Relevant sections in The Encyclopedia of Theoretical Ecology](https://press.princeton.edu/books/hardcover/9780691123448/a-biologists-guide-to-mathematical-modeling-in-ecology-and-evolution?srsltid=AfmBOooMlBswx-iP8Lebg6NcCY-u_xtggCamTJQFzQiz17e4zXy0dXNO)
