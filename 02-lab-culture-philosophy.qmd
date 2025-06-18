@@ -119,7 +119,7 @@ or collaborative lab projects.
 
 ### Weekly one-on-one meetings
 
-I (Easton) will meet weekly with each member of the lab unless a
+The lab PI will meet weekly with each member of the lab unless a
 different agreement has been reached. I expect these meetings to be led
 by the advisee, not me. These weekly meetings are a way for you to keep
 me updated on your progress and to get input. I expect agendas going
@@ -140,7 +140,15 @@ setting up a formal time to chat.
 
 ### Sharepoint Kanban board
 
-To manage projects
+To [manage projects in the lab](https://universitysystemnh.sharepoint.com/teams/QuantMarineEcologyLab/Lists/QMEL%20Projects/Kanban%20View.aspx), we use a [Kanban-style board](https://en.wikipedia.org/wiki/Kanban_board). The key is to have a central place for each project to keep track of communication, files, and updates. Otherwise, we spend a lot of effort trying to find files and communication in shared folders, emails, and Slack. 
+
+Each project has a card on the board. The board includes column to signify the status of each project. A project is often at the scale of a student chapter, paper, or grant. The card scope shouldn't be too big (e.g., complete PhD disseration), but it also shouldn't be too small (e.g., edit equation in methods). For smaller tasks, these could live on a separate board or spreadsheet to track all the details on an individual project. 
+
+![](img/kanban-board.png)
+
+Each card has information on who is responsible for what and by when. The cards allow sharing of links to important documents and back and forth communcation. Using a @ symbol notifies someone you have an update for them. 
+
+![](img/kanban-card.png)
 
 ## Lab Slack team
 
@@ -152,8 +160,7 @@ clutter.
 
 ## Email
 
-We don’t use email a lot in the lab. We use email to collaborate with
-non-lab members or to share documents back and forth.
+We don’t use email a lot in the lab. We use email to collaborate with non-lab members or to share documents back and forth.
 
 ## Texting and phone calls
 
@@ -185,11 +192,11 @@ can work as a substitute in these cases.
 
 ### File storage and sharing
 
-The lab uses a combination of Sharepoint and Google Drive. We use
-Sharepoint for large file storage and backing up data. We use Google
+The lab primarily uses Sharepoint. We use
+Sharepoint for large file storage and backing up data. Sometimes, we use Google
 drive for collaborating on documents, especially with external
 co-authors. For manuscripts written by only members of QMEL, the
-preference for document preparation is a combination of R markdown and
+preference for document preparation is a combination of R markdown (or Quarto) and
 Github.
 
 ### Working on papers

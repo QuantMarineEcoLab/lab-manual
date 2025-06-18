@@ -1,24 +1,69 @@
 # Offboarding {#offboarding}
 
-We have a document in the shared Google drive focused on lab
-offboarding, the process that describes what happens when someone leaves
-the lab. Here is a brief summary of the process.
+Here is a brief summary of the offboarding process (but it looks slightly different for different positions).
 
--   Ensure that all data (including raw data sheets) and code is
-    available in a public repository or in the QuantMarineEcoLab Github,
-    GoogleDrive, or Sharepoint folders
--   Ensure that your data (if applicable) has appropriate metadata
-    (e.g., describing columns in your data)
-    <https://knb.ecoinformatics.org/about>
--   Develop a plan for next steps (if appropriate) for your project in
-    collaboration with your mentor and Easton
--   Return any lab equipment (e.g., books, computer accessories, field
-    equipment)
+-   Ensure that all data (including raw data sheets) and code is available in a public repository or in the QuantMarineEcoLab Github, and Sharepoint folders
+-   Ensure that your data (if applicable) has appropriate metadata (e.g., describing columns in your data) <https://knb.ecoinformatics.org/about>
+-   Develop a plan for next steps (if appropriate) for your project in collaboration with your mentor and Easton
+-   Return any lab equipment (e.g., books, computer, computer accessories, field equipment)
 -   Return office keys to Easton or the department
--   Complete a progress assessment form
-    <https://unh.az1.qualtrics.com/jfe/form/SV_8B3OVWv6ZvPofcy>
--   Compile a list (of activities during your time in the lab) of all
-    your grants awarded, publications submitted and accepted, classes
-    taught, and outreach activities (this can be take from your previous
-    progress updates)
+-   Complete a progress assessment form <https://unh.az1.qualtrics.com/jfe/form/SV_8B3OVWv6ZvPofcy>
+-   (Can take the form of a CV) Compile a list (of activities during your time in the lab) of all your grants awarded, publications submitted and accepted, classes taught, and outreach activities (this can be take from your previous progress updates)
 -   Set up an exit interview with your direct mentor and/or Easton
+-   If needed (which is likely), Easton can request you have access to your email and other accounts after your position ends. He'll use this [link](https://ams.usnh.edu/apps/ams?action=sponsored). 
+
+## Exit interview
+
+- Knowledge transfer
+   - Document current projects, code, data workflows, protocols 
+   - Identify what needs to be handed off and to whom 
+   - Schedule handoff meetings for ongoing work 
+   - Update lab wiki/Notion/SharePoint with relevant documentation
+- Future workplans
+   - Review authorship plans for current and upcoming manuscripts 
+   - Clarify responsibilities for revisions, final submissions, or grants 
+   - Communication approach moving forward
+- Reflections
+   - What went well? What could be improved in the lab? 
+   - Reflections on mentorship, collaboration, and culture 
+   - Career plans and how to stay connected (e.g., alumni network) 
+
+Although not required to answer the following questions for offboarding, they may spark thoughts upon reflection: 
+
+### Mentorship & Lab Experience
+- What were the most valuable parts of your time in the lab?
+- How did your experience in this lab compare to your expectations?
+- Did you feel supported in your professional development? Why or why not?
+- Were there enough opportunities for mentorship or leadership?
+- Were feedback and communication from lab leadership effective and timely?
+
+### Research & Collaboration
+- What projects or collaborations were most meaningful to you?
+- What challenges did you face in conducting or publishing research?
+- Were there barriers that limited your productivity or creativity?
+- What tools or resources would have made your research easier?
+- How well did the lab facilitate interdisciplinary work or external partnerships?
+
+### Lab Culture & Operations
+- How would you describe the lab culture to a new hire?
+- Did you feel included and respected in lab meetings and decision-making?
+- Were expectations around workload, deadlines, or hours clear and fair?
+- What could be improved in terms of lab onboarding, communication, or meetings?
+
+### Career Next Steps
+- How did your time in the lab help prepare you for your next role?
+- Are there specific skills or experiences you wish you had more of?
+- Would you be open to future collaboration with the lab?
+
+### Logistics & Admin Feedback
+- Was the administrative support for grants, travel, equipment, or HR effective?
+- Were lab systems (file sharing, equipment use, communication tools) easy to navigate?
+- Is there any technical documentation or system you wish you’d had access to earlier?
+
+### Reflective & Open-Ended
+- If you could change one thing about the lab experience, what would it be?
+- What advice would you give to a new scientist joining this lab?
+- Any final thoughts, hopes, or suggestions for the lab’s future?
+
+
+
