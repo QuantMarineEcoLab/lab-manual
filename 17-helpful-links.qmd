@@ -1,0 +1,52 @@
+# Helpful links {#helpful-links}
+
+
+## People or institutions we have or currently work with
+
+- [Hastings Lab](https://alanhastings.ucdavis.edu/)
+- [UC Davis Population Biology](http://cpb.ucdavis.edu/)
+- [QuEST grad program](https://www.uvm.edu/quest) at University of Vermont
+- [Baum Lab](http://baumlab.weebly.com/)
+- [Gerber Lab](https://conservation-innovation.lab.asu.edu/)
+- [Bimini Biological Field Station](http://www.biminisharklab.com/home/home)
+- [IIASA Summer Program](http://www.iiasa.ac.at/web/home/education/yssp/about.html)
+- [Software Carpentry](https://software-carpentry.org/lessons/)
+
+## Scientific societies
+
+- [AAAS](https://www.aaas.org/)
+- [Ecological Society of America](https://www.esa.org/esa/)
+- [Canadian Society for Ecology and Evolution](http://csee-scee.ca/)
+- [AIBS](http://www.aibs.org/core/index.html)
+- [Society for Industrial and Applied Mathematics](http://www.siam.org/)
+- [Society for Mathematical Biology](https://www.smb.org/)
+- [Society for the Advancement of Biology Education Research (SABER)](https://qubeshub.org/community/groups/saber/about)
+
+## Applying to graduate school
+
+- [Finding right place for PhD or postdoc](http://www.sciencemag.org/careers/2018/09/how-find-right-place-your-phd-or-postdoc)
+- [Choosing a PhD program](https://dynamicecology.wordpress.com/2012/02/12/advice-how-to-choose-a-phd-program/)
+- [Applying for a PhD program](http://www.sciencemag.org/careers/2018/09/applying-phd-these-10-tips-can-help-you-succeed)
+
+## Fellowships/scholarships
+
+- [Early Career Researcher fellowship and grant database](https://ecrcentral.org/)
+- [SACNAS webinar on funding within NSF for students](https://www.youtube.com/watch?v=RwbhoQ0BH3w&feature=youtu.be)
+- [Ecology, evolution, & quantitative postdoc fellowship opportunities](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0)
+
+## Undergraduate research opportunities
+
+- [NOAA fellowships](https://coast.noaa.gov/fellowship/undgrad_opportunities.html)
+- [List of summer internships in ecology](https://people.rit.edu/gtfsbi/Symp/ecology.htm)
+- [Summer marine internships](https://www.marinecareers.net/internships-and-fellowships)
+
+## R Programming and Data Visualization
+
+- [Software Carpentry](https://software-carpentry.org/lessons/)
+- [How to learn R](https://www.r-bloggers.com/how-to-learn-r-2/)
+- [Reproducibility best practices course](https://lter.github.io/ssecr/mod_reproducibility.html)
+
+## Grant writing advice
+
+- [NSF DEB - how to write a great budget](https://debblog.nsfbio.com/2021/02/22/2-10-21-virtual-office-hours-recap-how-to-write-a-great-budget/l)
+- [Baskett Lab resources collection](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html)
