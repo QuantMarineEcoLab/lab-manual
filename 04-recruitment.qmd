@@ -72,7 +72,7 @@ Depending on your specific interests, I might not be the best advisor for you at
 
 ## Postdoctoral fellows
 
-We are not currently actively recruiting any postdocs. However, you can still put in a general inquiry below, especially if you are interested in co-developing a proposal.
+We are currently recruiting a postdoc with a Fall or Jan start date ideally. The project involves using secondary data (e.g., eBird, BioTime) to investigate questions related to the optimal design of long-term monitoring programs. The applicant is expected to have a strong background in data science or mathematical modeling. If desired, the postdoc would also mentor and/or teach as part of the appointment. 
 
 I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs. Head to [link](https://forms.office.com/r/sAbUJvMiRv) to complete an interest survey and send a brief email to [qmel.admin+postdoc@unh.edu](mailto:qmel.admin+postdoc@unh.edu).
 
