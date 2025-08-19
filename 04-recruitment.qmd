@@ -72,7 +72,25 @@ Depending on your specific interests, I might not be the best advisor for you at
 
 ## Postdoctoral fellows
 
-We are currently recruiting a postdoc with a Fall or Jan start date ideally. The position is funded by a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443276&HistoricalAwards=false) focused on the optimal design of long-term monitoring programs. 
+We are currently recruiting several postdoctoral fellows (or research associate if only a MS) to start immediately, in January, or mid 2026. Position descriptions below with official postings to come soon. 
+
+
+
+### Seafood demographics postdoc/research associate
+
+The position is funded by a New Hampshire Sea Grant and is for one year with the possibility of extension. Remote applicants will be considered and the priority is to hire this Fall. Head to [link](https://forms.office.com/r/sAbUJvMiRv) to complete an interest survey and send a brief email to [qmel.admin@unh.edu](mailto:qmel.admin@unh.edu).
+
+Preferred qualifications include:
+
+- Experience working with public demographic data (e.g., BLS)
+- Strong statistical (using R) experience
+- Background coordinating teams of researchers
+- Experience or background in mentoring students
+
+
+### Environmental monitoring postdoc
+
+This position (1-3 years) is funded by a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443276&HistoricalAwards=false) focused on the optimal design of long-term monitoring programs. Head to [link](https://forms.office.com/r/sAbUJvMiRv) to complete an interest survey and send a brief email to [qmel.admin@unh.edu](mailto:qmel.admin@unh.edu).
 
 Preferred qualifications include:
 
@@ -82,8 +100,10 @@ Preferred qualifications include:
 - Experience teaching or facilitating workshops in data science and programming
 - Experience or background in mentoring students
 
-I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs. Head to [link](https://forms.office.com/r/sAbUJvMiRv) to complete an interest survey and send a brief email to [qmel.admin@unh.edu](mailto:qmel.admin@unh.edu).
 
+### Other possibilities
+
+I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs. 
 
 - [NSF Postdoctoral Research Fellowships in Biology (PRFB) Program: Biological Research, Understanding and Solutions for a Resilient Planet](https://www.nsf.gov/pubs/2024/nsf24108/nsf24108.jsp?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery) - starts in Fall 2025
 - [Shoals Marine Lab Scientist-in-Residence Fellowship](https://www.shoalsmarinelaboratory.org/sirf) - due Apr 22nd
