@@ -192,12 +192,10 @@ can work as a substitute in these cases.
 
 ### File storage and sharing
 
-The lab primarily uses Sharepoint. We use
-Sharepoint for large file storage and backing up data. Sometimes, we use Google
-drive for collaborating on documents, especially with external
-co-authors. For manuscripts written by only members of QMEL, the
-preference for document preparation is a combination of R markdown (or Quarto) and
-Github.
+The lab primarily uses Sharepoint. We use Sharepoint for large file storage and backing up data. Sometimes, we use Google drive for collaborating on documents, especially with external
+co-authors. For manuscripts written by only members of QMEL, the preference for document preparation is a combination of R markdown (or Quarto) and Github.
+
+When collecting new data (and also useful when downloading data from elsewhere), ensure you have several backups. There should be 1 copy on Sharepoint, 1 on your local machine, and 1 on an external drive. 
 
 ### Working on papers
 
@@ -218,8 +216,7 @@ Google docs, and allows collaborations among many people.
 
 ### Social media
 
-The lab has a Twitter (<https://twitter.com/quantmarineeco>) that is
-maintained by the lab PI.
+The lab has a Twitter (<https://twitter.com/quantmarineeco>) that is maintained by the lab PI, but it hasn't been used in a while. 
 
 ### Lab website
 
