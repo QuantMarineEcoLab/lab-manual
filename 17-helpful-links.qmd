@@ -43,6 +43,7 @@
 ## R Programming and Data Visualization
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Statistics for Biologists collection of articles](https://www.nature.com/collections/qghhqm)
 - [How to learn R](https://www.r-bloggers.com/how-to-learn-r-2/)
 - [Reproducibility best practices course](https://lter.github.io/ssecr/mod_reproducibility.html)
 
