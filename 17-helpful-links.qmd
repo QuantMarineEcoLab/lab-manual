@@ -52,6 +52,7 @@
 - [How to learn R](https://www.r-bloggers.com/how-to-learn-r-2/)
 - [Reproducibility best practices course](https://lter.github.io/ssecr/mod_reproducibility.html)
 - [Big book of R - literally every open-source R book available in one place!](https://www.bigbookofr.com/)
+- [Species distribution modeling tutorial] https://github.com/elhazen/SDM_tutorial
 
 ## Grant writing advice
 
