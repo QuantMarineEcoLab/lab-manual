@@ -57,3 +57,17 @@
 
 - [NSF DEB - how to write a great budget](https://debblog.nsfbio.com/2021/02/22/2-10-21-virtual-office-hours-recap-how-to-write-a-great-budget/l)
 - [Baskett Lab resources collection](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html)
+
+## Job boards
+
+- [Texas A&M Natural Resources Job Board](https://jobs.rwfm.tamu.edu/search/)
+- [Science Careers](https://jobs.sciencecareers.org/)
+- [Nature Careers](https://www.nature.com/naturecareers/)
+- [Jobrxiv](https://jobrxiv.org/)
+- [Biospace](https://jobs.biospace.com/searchjobs/)
+- [Indeed](https://www.indeed.com/)
+- [LinkedIn](https://www.linkedin.com/)
+- [Ecoevo Jobs Google Sheet](ecoevojobs.net)
+- [Conservation Job Board](https://www.conservationjobboard.com/)
+- [Idealist](https://www.idealist.org/en/jobs)
+- [WILDLABS Job Board](https://wildlabs.net/resources)
