@@ -584,7 +584,7 @@
     "href": "17-helpful-links.html#r-programming-and-data-visualization",
     "title": "18  Helpful links",
     "section": "18.7 R Programming and Data Visualization",
-    "text": "18.7 R Programming and Data Visualization\n\nSoftware Carpentry\nStatistics for Biologists collection of articles\nHow to learn R\nReproducibility best practices course\nBig book of R - literally every open-source R book available in one place!",
+    "text": "18.7 R Programming and Data Visualization\n\nSoftware Carpentry\nStatistics for Biologists collection of articles\nHow to learn R\nReproducibility best practices course\nBig book of R - literally every open-source R book available in one place!\n[Species distribution modeling tutorial] https://github.com/elhazen/SDM_tutorial",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
     ]
