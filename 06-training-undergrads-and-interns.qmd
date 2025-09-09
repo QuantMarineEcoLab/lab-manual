@@ -15,7 +15,7 @@ Research Phases: There are three phases at which undergraduates can be involved 
 -   Research Assistant: Following their apprenticeship, students are expected to contribute in more significant ways to the research team. This can involve collecting and analyzing data, manuscript writing, conducting experiments, and so forth. The goal during this phase is to present work at a scientific conference or submit a manuscript to a peer-reviewed scientific journal.
 -   Research Associate: The final phase of involvement in the lab is for students who have presented their work at a conference or been involved in the submission of a manuscript (see above). This phase involves more leadership and independence. Students at this level define team goals, help mentor new team members, and meet regularly with Professor White. This phase in the lab is very similar to being a graduate student in the lab.
 
-During your time as a undergraduate researcher in the QEML, you will
+During your time as an undergraduate researcher in the QMEL, you will
 have several responsibilities:
 
 - Send mentors weekly email updates on Fridays by 5pm describing briefly what you’ve been working on, what you plan to do the following week, and any questions or troubles you had. Important things to include: projects you’ve worked on, broken equipment, storage/equipment conflicts, if your data looks weird.
