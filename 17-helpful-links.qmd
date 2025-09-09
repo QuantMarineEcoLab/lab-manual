@@ -11,6 +11,7 @@
 - [Bimini Biological Field Station](http://www.biminisharklab.com/home/home)
 - [IIASA Summer Program](http://www.iiasa.ac.at/web/home/education/yssp/about.html)
 - [Software Carpentry](https://software-carpentry.org/lessons/)
+- [Ecological Forecasting Initiative](https://ecoforecast.org/)
 
 ## Scientific societies
 
@@ -40,12 +41,17 @@
 - [List of summer internships in ecology](https://people.rit.edu/gtfsbi/Symp/ecology.htm)
 - [Summer marine internships](https://www.marinecareers.net/internships-and-fellowships)
 
+## Research Tools
+
+- [Research Rabbit - AI tool for identifying links between papers in your reference manager and finding new papers](https://researchrabbitapp.com/)
+
 ## R Programming and Data Visualization
 
 - [Software Carpentry](https://software-carpentry.org/lessons/)
 - [Statistics for Biologists collection of articles](https://www.nature.com/collections/qghhqm)
 - [How to learn R](https://www.r-bloggers.com/how-to-learn-r-2/)
 - [Reproducibility best practices course](https://lter.github.io/ssecr/mod_reproducibility.html)
+- [Big book of R - literally every open-source R book available in one place!](https://www.bigbookofr.com/)
 
 ## Grant writing advice
 
