@@ -524,7 +524,7 @@
     "href": "17-helpful-links.html#people-or-institutions-we-have-or-currently-work-with",
     "title": "18  Helpful links",
     "section": "",
-    "text": "Hastings Lab\nUC Davis Population Biology\nQuEST grad program at University of Vermont\nBaum Lab\nGerber Lab\nBimini Biological Field Station\nIIASA Summer Program\nSoftware Carpentry",
+    "text": "Hastings Lab\nUC Davis Population Biology\nQuEST grad program at University of Vermont\nBaum Lab\nGerber Lab\nBimini Biological Field Station\nIIASA Summer Program\nSoftware Carpentry\nEcological Forecasting Initiative",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
     ]
@@ -570,11 +570,21 @@
     ]
   },
   {
+    "objectID": "17-helpful-links.html#research-tools",
+    "href": "17-helpful-links.html#research-tools",
+    "title": "18  Helpful links",
+    "section": "18.6 Research Tools",
+    "text": "18.6 Research Tools\n\nResearch Rabbit - AI tool for identifying links between papers in your reference manager and finding new papers",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
+    ]
+  },
+  {
     "objectID": "17-helpful-links.html#r-programming-and-data-visualization",
     "href": "17-helpful-links.html#r-programming-and-data-visualization",
     "title": "18  Helpful links",
-    "section": "18.6 R Programming and Data Visualization",
-    "text": "18.6 R Programming and Data Visualization\n\nSoftware Carpentry\nStatistics for Biologists collection of articles\nHow to learn R\nReproducibility best practices course",
+    "section": "18.7 R Programming and Data Visualization",
+    "text": "18.7 R Programming and Data Visualization\n\nSoftware Carpentry\nStatistics for Biologists collection of articles\nHow to learn R\nReproducibility best practices course\nBig book of R - literally every open-source R book available in one place!",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
     ]
@@ -583,8 +593,8 @@
     "objectID": "17-helpful-links.html#grant-writing-advice",
     "href": "17-helpful-links.html#grant-writing-advice",
     "title": "18  Helpful links",
-    "section": "18.7 Grant writing advice",
-    "text": "18.7 Grant writing advice\n\nNSF DEB - how to write a great budget\nBaskett Lab resources collection",
+    "section": "18.8 Grant writing advice",
+    "text": "18.8 Grant writing advice\n\nNSF DEB - how to write a great budget\nBaskett Lab resources collection",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Helpful links</span>"
     ]
