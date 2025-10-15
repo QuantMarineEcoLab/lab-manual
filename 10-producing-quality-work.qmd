@@ -66,6 +66,10 @@ Here are some examples of the last bullet:
    - Example: “Biofouling is an additional factor associated with cleaning implementation and impede flow rates in cages” You could write "Biofouling contributes to cleaning challenges and reduces flow rates in cages."
 
 
+### Specific pieces of advice
+
+- [How to write about regression outputs](https://doi.org/10.1111/2041-210X.12577)
+
 ### Acknowledgements (example with lots of details)
 
 The authors would like to thank Josie DeMerit and Ella Williams for their assistance completing the laboratory experiments. We conducted data analysis of cardiac activity on the Premise High Performance Computing Cluster, supported by the University System of New Hampshire Research Computing Center and by New Hampshire-INBRE through an Institutional Development Award (IDeA), P20GM103506, from the National Institute of General Medical Sciences of the NIH. Field work and organism collection was completed under New Hampshire Fish and Game Department permit MFD 2430. This research was supported through grants to ARV by the New Hampshire Sea Grant Graduate Fellowship, and UNH School for Marine Science and Ocean Engineering (SMSOE) Graduate Student Fund. Additional funds were awarded by the New Hampshire Agricultural Experiment Station CREATE program through a joint funding program with the USDA National Institute of Food and Agriculture (Hatch award no. 7004018) and the State of New Hampshire. 
