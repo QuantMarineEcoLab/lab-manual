@@ -45,6 +45,20 @@ for the grad student lead and the PI to both be corresponding authors.
 -   <https://www.sciencemag.org/careers/2021/05/how-navigate-authorship-scientific-manuscripts>
 
 
+## Where to publish 
+
+A lot has been written on this topic. In general, we like to publish our work open access (which may be in the form of a preprint) and solid journals. The goal is to publish in the right journal as opposed to the "best journal possible". One useful tip is to go through your list of references. What journals do you cite? That probably gives you a good clue as to the write audience for your work. 
+
+At UNH, we have a special [agreement with Cambridge](https://libraryguides.unh.edu/openaccess/memberships) to publish open access for free, including in the following journals.
+
+- [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science)
+- [Oryx](https://www.cambridge.org/core/journals/oryx)
+- [Coastal Futures](https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures/overview-for-authors)
+- [Environmental Conservation](https://www.cambridge.org/core/journals/environmental-conservation)
+
+We also publish for free, or cheaply, in [PeerJ](https://peerj.com/). 
+
+
 ## Advice on writing
 
 Key principles on writing in the lab
