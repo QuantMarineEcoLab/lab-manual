@@ -22,6 +22,28 @@ There is clearly a lot to being a graduate student. It can sometimes be difficul
 
 In order to be successful as a scientist, it is critical that you stay up to date on the latest research. This can be a formidable challenge but it can be facilitated by using RSS feeds or emails with journal table of contents. Setting up Google Scholar alerts can also be helpful for specific key words. You can also consider following scientists or scientific organizations on Twitter.
 
+## Committees
+
+
+### Easton on non-QMEL student committees
+
+Given ongoing commitments, for 2025-2026, I am unlikely to join any student committees. 
+
+Thank you for considering me as part of your graduate student committee. I am honored. A graduate committee membership is a role I take very seriously. I have served on graduate committees in biology, natural resources, oceanography, applied math, and for students outside of my institution. 
+
+Largely because of my role in teaching a graduate-level Data Science course (BIOL 806), I often receive requests to join committees because of my R expertise. Unfortunately, for me to join a committee, this is not enough of a justification. I receive 10+ graduate committee requests per year and, regrettably, I must turn down many requests. 
+
+As you consider me for your committee, please review my specific areas of expertise ([https://quantmarineecolab.github.io/](https://quantmarineecolab.github.io/)) and consider what expertise I would bring to your project. 
+
+Potential reasons I may join a committee:
+
+-	Project related to extreme events, how to improve ecological monitoring, or socio-ecological dynamics
+-	Project involving quantitative biology education or outreach
+-	Project pertaining to one of my existing study systems: Great Bay, Madagascar, Eastern Tropical Pacific
+-	Project with specific analysis needs such as population modeling, time series analysis, simulation approaches
+-	Another extraordinary or compelling situation (there are always exceptions)
+
+
 ## Academics
 
 Specific requirements of MS and PhD students depend on whether they are enrolled in Marine Biology or Integrative Bioloy. These requirements are updated more regularly in [internal departmental documents](https://universitysystemnh.sharepoint.com/teams/UNHDBS/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FUNHDBS%2FShared%20Documents%2FGraduate%20Students&viewid=4c4a5c2a%2D829f%2D4549%2Db195%2D31d0fb25b563). The goal here is lay out requirements, coursework, and timelines more specific to QMEL. There are also details about requirements at the [Graduate School level available](https://catalog.unh.edu/graduate/academic-regulations-degree-requirements/degree-requirements/#text).
