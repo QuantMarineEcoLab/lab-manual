@@ -18,3 +18,7 @@ Easton has worked on or submitted.
 
 As a lab, we have compiled a database of funding opportunities that are
 the most relevant to members of this lab (see shared Google Drive).
+
+## Grants/fellowships
+
+- [Switzer fellowship](https://www.switzernetwork.org/fellowship/become-fellow)
