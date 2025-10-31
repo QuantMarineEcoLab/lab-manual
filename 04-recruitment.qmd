@@ -32,9 +32,9 @@ If you are interested in joining the lab, head to [link](https://forms.office.co
 
 I will likely accept 1-2 students (MS or PhD) in Fall 2026. Current funding is focused on the following projects:
 
-- 1) mathematical modeling of aquaculture,
-- 2) decision science related to how to optimize ecological monitoring programs, and
-- 3) how biologists learn quantitative skills (student would be co-advised with [Dr. Melissa Aikens](https://sites.usnh.edu/mla1011/lab-members/)).
+1) mathematical modeling of aquaculture,
+2) decision science related to how to optimize ecological monitoring programs, and
+3) how biologists learn quantitative skills (student would be co-advised with [Dr. Melissa Aikens](https://sites.usnh.edu/mla1011/lab-members/)).
 
 Topic (3) would be for a PhD student (who already has a MS) and would involve a dissertation split between biology education research and an ecological topic. 
 
@@ -60,7 +60,7 @@ I encourage my own students and applicants to apply for [various grants and fell
 - [Another fellowship database](https://www.pathwaystoscience.org/grad.aspx)
 - [And yet another database](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/selectedValues=11&31&28&SearchBy=)
 
-The curriculum in the biology graduate programs is flexible. Graduate students work with their advisor and committee to choose a set of courses. In my lab, it is common for students to take a mix of the following courses in their first two years. All incoming students take BIOL 901: Introductory Graduate Seminar. BIOL 901 is designed for you to build community within your cohort and learn about UNH.
+The curriculum in the biology graduate programs is flexible. Graduate students work with their advisor and committee to choose a set of courses. In my lab, it is common for students to take a mix of the following courses in their first two years (see below for a couple of examples). All incoming students take BIOL 901: Introductory Graduate Seminar. BIOL 901 is designed for you to build community within your cohort and learn about UNH.
 
 - BIOL 806: Data Science with R for the Life Sciences
 - BIOL 895: Theoretical Ecology
@@ -81,7 +81,7 @@ Depending on your specific interests, I might not be the best advisor for you at
 
 ## Postdoctoral fellows
 
-We are currently recruiting several postdoctoral fellows (or research associates if only a MS) to start immediately, in January, or mid 2026. Position descriptions below with official postings to come soon. 
+We are currently recruiting several postdoctoral fellows to start sometime in 2026. Position description below with official posting to come soon. 
 
 
 
