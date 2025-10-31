@@ -30,7 +30,15 @@ If you are interested in joining the lab, head to [link](https://forms.office.co
 
 ## Graduate students
 
-I will likely accept 1-2 students (MS or PhD) in Fall 2026. Students could work on a variety of projects, but most of the lab's current funding is focused on 1) mathematical modeling of aquaculture or 2) decision science related to how to optimize ecological monitoring programs. The applicant would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R and quantitative skills (e.g., mathematical modeling, statistics). After completing this head to this [link](https://forms.office.com/r/sAbUJvMiRv) to complete an interest survey and send a brief email to [qmel.admin@unh.edu](mailto:qmel.admin@unh.edu). It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
+I will likely accept 1-2 students (MS or PhD) in Fall 2026. Current funding is focused on the following projects:
+
+- 1) mathematical modeling of aquaculture,
+- 2) decision science related to how to optimize ecological monitoring programs, and
+- 3) how biologists learn quantitative skills (student would be co-advised with [Dr. Melissa Aikens](https://sites.usnh.edu/mla1011/lab-members/)).
+
+Topic (3) would be for a PhD student (who already has a MS) and would involve a dissertation split between biology education research and an ecological topic. 
+
+For all positions, applicants would be expected to have a strong data science or mathematical modeling background. Applicants that will be the most competitive for a position will have experience (and willingness to learn more) with R and quantitative skills (e.g., mathematical modeling, statistics). After completing this, head to this [link](https://forms.office.com/r/sAbUJvMiRv) to complete an interest survey and send a brief email to [qmel.admin@unh.edu](mailto:qmel.admin@unh.edu). It is important to emphasize why you are interested in working in my lab specifically. I am also open to chatting about the topics above or potential projects related to other areas of my research program. 
 
 Our [lab handbook](https://quantmarineecolab.github.io/lab-manual/) is a living document and lays out expectations of lab members. 
 
