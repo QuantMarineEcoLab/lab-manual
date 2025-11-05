@@ -1,9 +1,9 @@
 <p align="center"> 
-   :sparkles: Welcome to the Faylab Lab Manual! :sparkles: 
+   :sparkles: Welcome to the Quant Marine Ecology Lab Manual! :sparkles: 
 </p>
 
 
-This ~~bookdown~~ Quarto book is intended to be used for **incoming, current, and outgoing** members of the Fay lab group. If we missed anything, please let Gavin Fay (gfay@umassd.edu) or Madeleine Guyant (mguyant@umassd.edu) know. You can also do a pull request and we will review the changes. 
+This ~~bookdown~~ Quarto book is intended to be used for **incoming, current, and outgoing** members of the QMEL group. If we missed anything, please let easton.white@unh.edu know. You can also do a pull request and we will review the changes. 
 
 We hope this has all the answers you need!
 
