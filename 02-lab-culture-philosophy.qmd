@@ -21,6 +21,7 @@ Throughout this lab manual, I will come back to these themes.
 
 ## General expectations
 
+
 ### Big picture
 
 Science can be hard, frustrating, and even sometimes painful (like when
