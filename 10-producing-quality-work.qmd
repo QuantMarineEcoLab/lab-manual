@@ -38,25 +38,6 @@ that I have only a small part in. That being said, the most common order
 Lead, Other Contributors, with the PI as the last author. It is common
 for the grad student lead and the PI to both be corresponding authors.
 
-## Authorship resources
-
--   <http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html>
--   <https://www.sciencemag.org/careers/2010/04/conventions-scientific-authorship>
--   <https://www.sciencemag.org/careers/2021/05/how-navigate-authorship-scientific-manuscripts>
-
-
-## Where to publish 
-
-A lot has been written on this topic. In general, we like to publish our work open access (which may be in the form of a preprint) and solid journals. The goal is to publish in the right journal as opposed to the "best journal possible". One useful tip is to go through your list of references. What journals do you cite? That probably gives you a good clue as to the write audience for your work. 
-
-At UNH, we have a special [agreement with Cambridge](https://libraryguides.unh.edu/openaccess/memberships) to publish open access for free, including in the following journals.
-
-- [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science)
-- [Oryx](https://www.cambridge.org/core/journals/oryx)
-- [Coastal Futures](https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures/overview-for-authors)
-- [Environmental Conservation](https://www.cambridge.org/core/journals/environmental-conservation)
-
-We also publish for free, or cheaply, in [PeerJ](https://peerj.com/). 
 
 
 ## Advice on writing
@@ -84,6 +65,19 @@ Here are some examples of the last bullet:
 
 - [How to write about regression outputs](https://doi.org/10.1111/2041-210X.12577)
 
+## Where to publish 
+
+A lot has been written on this topic. In general, we like to publish our work open access (which may be in the form of a preprint) and solid journals. The goal is to publish in the right journal as opposed to the "best journal possible". One useful tip is to go through your list of references. What journals do you cite? That probably gives you a good clue as to the write audience for your work. 
+
+At UNH, we have a special [agreement with Cambridge](https://libraryguides.unh.edu/openaccess/memberships) to publish open access for free, including in the following journals.
+
+- [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science)
+- [Oryx](https://www.cambridge.org/core/journals/oryx)
+- [Coastal Futures](https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures/overview-for-authors)
+- [Environmental Conservation](https://www.cambridge.org/core/journals/environmental-conservation)
+
+We also publish for free, or cheaply, in [PeerJ](https://peerj.com/). 
+
 ### Submitting a paper 
 
 Throughout the process of developing a paper for publication, you should also think about what journals you plan to submit to, who the co-authors will be, and when you want to submit. The answers to these questions will shape how you write the paper.  
@@ -98,19 +92,16 @@ In addition to your co-authors, at this stage you should seek internally---often
 
 It is also useful to create an account at the journal you intend to submit. You can start the submission process to ensure you know what is expected from the journal. Each journal will also have an Author Guidelines document (see below for MEPS example). 
 
- 
-
- 
-
- 
-
 A week prior to submission, you should be incorporating edits from co-authors and discussing with the QMEL senior author on the paper. A week before submission, you should also email all co-authors to tell them that you plan to submit within a week and to ask if anyone objects to the final version of the manuscript. You should also tell them you plan to submit as a preprint if that applies to you.  
 
 For submission, you need to carefully follow journal requirements. It is wise to review these requirements and create an author account with the journal well before you need to submit. These are outlined clearly on every journal website. Some journals require line numbers, a cover letter, a link to data, etc. You will almost certainly need to come up with a short list (usually 3-5 names) of potential paper reviewers to suggest. An editor won’t choose everyone on your list, but they often start there. You cannot suggest someone you have published with previously.  
 
-  
+  ## Authorship resources
 
-  
+-   <http://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html>
+-   <https://www.sciencemag.org/careers/2010/04/conventions-scientific-authorship>
+-   <https://www.sciencemag.org/careers/2021/05/how-navigate-authorship-scientific-manuscripts>
+
 
 Here is some other advice on submitting papers 
 
