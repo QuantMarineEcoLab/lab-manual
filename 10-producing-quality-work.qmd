@@ -84,6 +84,40 @@ Here are some examples of the last bullet:
 
 - [How to write about regression outputs](https://doi.org/10.1111/2041-210X.12577)
 
+### Submitting a paper 
+
+Throughout the process of developing a paper for publication, you should also think about what journals you plan to submit to, who the co-authors will be, and when you want to submit. The answers to these questions will shape how you write the paper.  
+
+Early in the development of a manuscript, you should have a target journal, determine the focus of the journal, and discuss with Easton or other senior authors. At this stage, you should have an ideal of the author list (and likely order) as well. It is important to sort out authorship very early in the process. 
+
+At least 2-3 months prior to submission, you should have a full draft of the paper. After a round of revisions with the senior author(s), usually Easton, you can then get feedback from other co-authors. 
+
+At least a month prior to submission, you should send the draft paper to all co-authors. You can do this in rounds, or send to everyone at once, but you should give every co-author at least three weeks to provide feedback. You should tell them a specific date by which you need their feedback.  
+
+In addition to your co-authors, at this stage you should seek internally---often called “friendly” peer review. Before submission, all papers must be internally peer reviewed by a minimum of 2 QMEL lab members at the same level or higher than your current career stage. For example, if you are a graduate student, you can have your paper draft read by two other graduate students or a graduate student and a postdoc. This is an important step as co-authors can often be too close to the work and may miss important details.  
+
+It is also useful to create an account at the journal you intend to submit. You can start the submission process to ensure you know what is expected from the journal. Each journal will also have an Author Guidelines document (see below for MEPS example). 
+
+ 
+
+ 
+
+ 
+
+A week prior to submission, you should be incorporating edits from co-authors and discussing with the QMEL senior author on the paper. A week before submission, you should also email all co-authors to tell them that you plan to submit within a week and to ask if anyone objects to the final version of the manuscript. You should also tell them you plan to submit as a preprint if that applies to you.  
+
+For submission, you need to carefully follow journal requirements. It is wise to review these requirements and create an author account with the journal well before you need to submit. These are outlined clearly on every journal website. Some journals require line numbers, a cover letter, a link to data, etc. You will almost certainly need to come up with a short list (usually 3-5 names) of potential paper reviewers to suggest. An editor won’t choose everyone on your list, but they often start there. You cannot suggest someone you have published with previously.  
+
+  
+
+  
+
+Here is some other advice on submitting papers 
+
+https://scientific-publishing.webshop.elsevier.com/publication-recognition/how-to-submit-a-paper-for-publication-in-a-journal/ 
+
+https://medium.com/@aschrock/how-to-submit-a-journal-article-48bbca709c70 
+
 ### Acknowledgements (example with lots of details)
 
 The authors would like to thank Josie DeMerit and Ella Williams for their assistance completing the laboratory experiments. We conducted data analysis of cardiac activity on the Premise High Performance Computing Cluster, supported by the University System of New Hampshire Research Computing Center and by New Hampshire-INBRE through an Institutional Development Award (IDeA), P20GM103506, from the National Institute of General Medical Sciences of the NIH. Field work and organism collection was completed under New Hampshire Fish and Game Department permit MFD 2430. This research was supported through grants to ARV by the New Hampshire Sea Grant Graduate Fellowship, and UNH School for Marine Science and Ocean Engineering (SMSOE) Graduate Student Fund. Additional funds were awarded by the New Hampshire Agricultural Experiment Station CREATE program through a joint funding program with the USDA National Institute of Food and Agriculture (Hatch award no. 7004018) and the State of New Hampshire. 
