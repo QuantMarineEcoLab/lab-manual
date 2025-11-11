@@ -33,7 +33,7 @@ If you are interested in joining the lab, head to [link](https://forms.office.co
 I will likely accept 1-2 students (MS or PhD) in Fall 2026. Current funding is focused on the following projects:
 
 1) mathematical modeling of aquaculture,
-2) decision science related to how to optimize ecological monitoring programs, and
+2) decision science and time series analysis related to how to optimize ecological monitoring programs, and
 3) how biologists learn quantitative skills (student would be co-advised with [Dr. Melissa Aikens](https://sites.usnh.edu/mla1011/lab-members/)).
 
 Topic (3) would be for a PhD student (who already has a MS) and would involve a dissertation split between biology education research and an ecological topic. 
