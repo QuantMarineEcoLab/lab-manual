@@ -57,5 +57,11 @@ Over the years, dozens of UNH undergraduates have presented their research findi
 * [Various undergrad research programs through UNH's Hamel Center](https://www.unh.edu/undergrad-research/programs)
 * [UNH Center for Coastal Ocean Mapping Summer Undergrad Research Fellowship](https://ccom.unh.edu/surf). Students accepted into the program will spend up to 10 intensive weeks (normally early June to mid-August) working under the guidance of a CCOM faculty member. They will conduct research related to acoustics, bathymetric mapping, habitat mapping, lidar, marine geology and geophysics, optical imaging, sonar signal processing, or data visualization. Research activities may include laboratory experiments, field work, a research cruise, data analysis, model development, or instrument development. 
 
+## Other Professional Development opportunities
+
+* [Young Scientists Summer Program - Program in systems modeling for PhD students to spend summer in Austria](https://iiasa.ac.at/early-career/yssp)
+* [Gene Golub SIAM Summer School - rotating topics](https://www.siam.org/programs-initiatives/programs/gene-golub-siam-summer-school/)
+* [SIAM summer math modeling short course](https://www.siam.org/conferences-events/workshops/2026-graduate-student-mathematical-modeling-camp/)
+
 
 
