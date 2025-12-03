@@ -64,9 +64,9 @@ I encourage my own students and applicants to apply for [various grants and fell
 - [NOAA-NMFS Population Dynamics Fellowship](https://seagrant.noaa.gov/nmfs-sg-fellowship/) - The fellowship can provide support for up to three years for highly qualified graduate students working towards a Ph.D. in quantitative programs 
 - [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/) - Fellowships to PhD students in the applied physical and biological sciences, mathematics, or engineering - due in October each year
 - [Gillam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows) - program to advance equity and inclusion in science. Each adviser-student pair receives an annual award of $53,000 for up to three years. 
-- [Foundation for Food and Agriculture Research FFAR Fellows Program](https://ffarfellows.org/)
+- [Foundation for Food and Agriculture Research FFAR Fellows Program](https://ffarfellows.org/) - cohort program for those interested in ag/aquaculture, must be sponsored partially by non-university group, fellows receive $49,500 per year for stipend and tuition
 - [Ford Foundation Fellowship](https://sites.nationalacademies.org/pga/fordfellowships/index.htm)
-- [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/)
+- [DOE Computational Science Graduate Fellowship](https://www.krellinst.org/csgf/) - due in January each year, must be US Citizen, $45,000 stipend per year
 - [List of other fellowships](https://grad.ncsu.edu/student-funding/fellowships-and-grants/national/nationally-competitive-graduate-fellowships/)
 - [Another fellowship database](https://www.pathwaystoscience.org/grad.aspx)
 - [And yet another database](https://apps.grad.illinois.edu/fellowship-finder/SearchResult/selectedValues=11&31&28&SearchBy=)
