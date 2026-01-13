@@ -127,10 +127,25 @@ A lot has been written on this topic. In general, we like to publish our work op
 
 At UNH, we have a special [agreement with Cambridge](https://libraryguides.unh.edu/openaccess/memberships) to publish open access for free, including in the following journals.
 
-- [Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science)
-- [Oryx](https://www.cambridge.org/core/journals/oryx)
-- [Coastal Futures](https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures/overview-for-authors)
-- [Environmental Conservation](https://www.cambridge.org/core/journals/environmental-conservation)
+- [Africa](https://www.cambridge.org/core/journals/africa)
+- [African Studies Review](https://www.cambridge.org/core/journals/african-studies-review)
+- [Evolutionary Human Sciences](https://www.cambridge.org/core/journals/evolutionary-human-sciences)
+- [International Journal of Cultural Property](https://www.cambridge.org/core/journals/international-journal-of-cultural-property)
+- [The Journal of African History](https://www.cambridge.org/core/journals/journal-of-african-history)
+- [Journal of Biosocial Science](https://www.cambridge.org/core/journals/journal-of-biosocial-science)
+- [The Journal of Modern African Studies](https://www.cambridge.org/core/journals/journal-of-modern-african-studies)
+- [Latin American Research Review](https://www.cambridge.org/core/journals/latin-american-research-review)
+- [Quaternary Research](https://www.cambridge.org/core/journals/quaternary-research)
+- [*Cambridge Prisms: Coastal Futures](https://www.cambridge.org/core/journals/cambridge-prisms-coastal-futures)
+- [Earth and Environmental Science Transactions of The Royal Society of Edinburgh](https://www.cambridge.org/core/journals/earth-and-environmental-science-transactions-of-royal-society-of-edinburgh)
+- [*Environmental Conservation](https://www.cambridge.org/core/journals/environmental-conservation)
+- [*Environmental Data Science](https://www.cambridge.org/core/journals/environmental-data-science)
+- [Journal of the Marine Biological Association of the United Kingdom](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom)
+- [Global Sustainability](https://www.cambridge.org/core/journals/global-sustainability)
+- [Journal of Tropical Ecology](https://www.cambridge.org/core/journals/journal-of-tropical-ecology)
+- [*Oryx](https://www.cambridge.org/core/journals/oryx)
+- [Data & Policy](https://www.cambridge.org/core/journals/data-and-policy)
+- [Journal of Race, Ethnicity, and Politics](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics)
 
 We also publish for free, or cheaply, in [PeerJ](https://peerj.com/) and UNH enjoys other [publishing discounts](https://libraryguides.unh.edu/openaccess/memberships).
 
