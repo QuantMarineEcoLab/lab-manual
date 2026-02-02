@@ -12,61 +12,41 @@
   {
     "objectID": "01-intro-how-we-work.html",
     "href": "01-intro-how-we-work.html",
-    "title": "2  Introduction",
+    "title": "2  QMEL flywheel",
     "section": "",
-    "text": "2.1 Essential intent",
+    "text": "2.1 SDGs\nTo stay aligned with our purpose and values, we use the flywheel model produced by Jim Collins to think about the work in the lab. Anywhere along the lab’s flywheel we can advance progress and add momentum to the flywheel. With enough momentum, the flywheel keeps turning. We start by building a culture of trust that is based on transparency and clear communication. This helps lab members bring their whole selves to work. Empowered and healthy lab members produce good work. We then promote our work at conferences, in the media, and in outreach events. That promotion builds our reputation, which helps us attract funding and new lab members. The process continues.\nIn 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. As members of QMEL, we contribute to these goals, especially Quality Education, Life Below Water, and Peace, Justice, and Strong Institutions.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "01-intro-how-we-work.html#qmel-flywheel",
-    "href": "01-intro-how-we-work.html#qmel-flywheel",
-    "title": "2  Introduction",
-    "section": "2.2 QMEL flywheel",
-    "text": "2.2 QMEL flywheel",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
-    ]
-  },
-  {
-    "objectID": "01-intro-how-we-work.html#sdgs",
-    "href": "01-intro-how-we-work.html#sdgs",
-    "title": "2  Introduction",
-    "section": "2.3 SDGs",
-    "text": "2.3 SDGs\nIn 2015, UN member states agreed to 17 global Sustainable Development Goals (SDGs) to end poverty, protect the planet and ensure prosperity for all. As members of QMEL, we contribute to these goals, especially Quality Education, Life Below Water, and Peace, Justice, and Strong Institutions.",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>QMEL flywheel</span>"
     ]
   },
   {
     "objectID": "01-intro-how-we-work.html#readings",
     "href": "01-intro-how-we-work.html#readings",
-    "title": "2  Introduction",
-    "section": "2.4 Readings",
-    "text": "2.4 Readings\nSee the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:\n\nOur path to better science in less time using open data science tools (Lowndes et al. 2017)\nGood enough practices in scientific computing (Wilson et al. 2017)\n\n[To come: recommended reading list]",
+    "title": "2  QMEL flywheel",
+    "section": "2.2 Readings",
+    "text": "2.2 Readings\nSee the next chapter for more detail on our lab culture and philosophy. We are motivated heavily by the following two papers - which provide a blueprint for how we think about the way we do our work:\n\nOur path to better science in less time using open data science tools (Lowndes et al. 2017)\nGood enough practices in scientific computing (Wilson et al. 2017)\n\n[To come: recommended reading list]",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>QMEL flywheel</span>"
     ]
   },
   {
     "objectID": "01-intro-how-we-work.html#shared-lab-resources",
     "href": "01-intro-how-we-work.html#shared-lab-resources",
-    "title": "2  Introduction",
-    "section": "2.5 Shared lab resources",
-    "text": "2.5 Shared lab resources\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Sharepoint folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.\n\nLab Sharepoint/One Drive",
+    "title": "2  QMEL flywheel",
+    "section": "2.3 Shared lab resources",
+    "text": "2.3 Shared lab resources\nWe also share our institutional knowledge through our lab-chat github ‘issues’ repository. This is a community-driven troubleshooting resource, please contribute!\nWe maintain a lab Sharepoint folder for lab publications, presentations, photos, CVs, etc. Please make use of these so that others in the lab can make fair use of our work.\n\nLab Sharepoint/One Drive",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>QMEL flywheel</span>"
     ]
   },
   {
     "objectID": "01-intro-how-we-work.html#references",
     "href": "01-intro-how-we-work.html#references",
-    "title": "2  Introduction",
-    "section": "2.6 References",
-    "text": "2.6 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "title": "2  QMEL flywheel",
+    "section": "2.4 References",
+    "text": "2.4 References\n\n\n\n\nLowndes, Julia S. Stewart, Benjamin D. Best, Courtney Scarborough, Jamie C. Afflerbach, Melanie R. Frazier, Casey C. O’Hara, Ning Jiang, and Benjamin S. Halpern. 2017. “Our Path to Better Science in Less Time Using Open Data Science Tools.” Nature Ecology & Evolution 1 (6). https://doi.org/10.1038/s41559-017-0160.\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>QMEL flywheel</span>"
     ]
   },
   {
