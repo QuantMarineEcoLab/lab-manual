@@ -2,13 +2,9 @@
 bibliography: references.bib
 ---
 
-# Introduction {#intro}
-
-
-## Essential intent
-
 ## QMEL flywheel
 
+To stay aligned with our purpose and values, we use the flywheel model produced by Jim Collins to think about the work in the lab. Anywhere along the lab's flywheel we can advance progress and add momentum to the flywheel. With enough momentum, the flywheel keeps turning. We start by building a culture of trust that is based on transparency and clear communication. This helps lab members bring their whole selves to work. Empowered and healthy lab members produce good work. We then promote our work at conferences, in the media, and in outreach events. That promotion builds our reputation, which helps us attract funding and new lab members. The process continues. 
 
 ## SDGs
 
