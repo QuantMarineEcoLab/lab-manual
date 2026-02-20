@@ -149,7 +149,7 @@ At UNH, we have a special [agreement with Cambridge](https://libraryguides.unh.e
 
 We also publish for free, or cheaply, in [PeerJ](https://peerj.com/) and UNH enjoys other [publishing discounts](https://libraryguides.unh.edu/openaccess/memberships).
 
-UNH also has an agree with [Elsevier for additional hybrid open access journals](https://www.elsevier.com/open-access/agreements/university-of-new-hampshire). The list includes many journals, including:
+UNH also has an agreement with [Elsevier for additional hybrid open access journals](https://www.elsevier.com/open-access/agreements/university-of-new-hampshire). The list includes many journals, including:
 
 - [Ecological Modelling](https://www.journals.elsevier.com/ecological-modelling)
 - [Food Webs](https://www.journals.elsevier.com/food-webs)
@@ -165,6 +165,10 @@ UNH also has an agree with [Elsevier for additional hybrid open access journals]
 - [Journal of Theoretical Biology](http://www.elsevier.com/locate/issn/0022-5193)
 - [Mathematical BioSciences](http://www.elsevier.com/locate/issn/0025-5564)
 - [Theoretical Population Biology](http://www.elsevier.com/locate/issn/0040-5809)
+- [Science of the Total Environment](https://www.sciencedirect.com/journal/science-of-the-total-environment)
+- [Global Environmental Change](https://www.sciencedirect.com/journal/global-environmental-change)
+- [Environmental Research](https://www.sciencedirect.com/journal/environmental-research)
+- [Environmental Modelling and Software](https://www.sciencedirect.com/journal/environmental-modelling-and-software)
 
 
 
