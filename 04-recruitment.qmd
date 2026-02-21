@@ -64,6 +64,7 @@ I encourage my own students and applicants to apply for [various grants and fell
 - [NSF GRFP](https://www.nsfgrfp.org/) - Award is for three years of funding - lots of restrictions on who can apply - due in October each year
 - [Paul and Daisy Soros Fellowships for New Americans](https://www.pdsoros.org/) - Due in November each year
 - [NOAA-NMFS Population Dynamics Fellowship](https://seagrant.noaa.gov/nmfs-sg-fellowship/) - The fellowship can provide support for up to three years for highly qualified graduate students working towards a Ph.D. in quantitative programs 
+- [USDA doctoral program, includes work on aquaculture and data](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development) - due in Apr each year
 - [Hertz Fellowship](https://www.hertzfoundation.org/the-fellowship/apply-for-fellowship/) - Fellowships to PhD students in the applied physical and biological sciences, mathematics, or engineering - due in October each year
 - [Gillam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows) - program to advance equity and inclusion in science. Each adviser-student pair receives an annual award of $53,000 for up to three years. 
 - [Foundation for Food and Agriculture Research FFAR Fellows Program](https://ffarfellows.org/) - cohort program for those interested in ag/aquaculture, must be sponsored partially by non-university group, fellows receive $49,500 per year for stipend and tuition
@@ -112,7 +113,9 @@ Preferred qualifications include:
 
 I am also open to collaboratively working on proposals to help fund independent postdoctoral fellow positions through several different programs. 
 
-- [NSF Postdoctoral Research Fellowships in Biology (PRFB) Program: Biological Research, Understanding and Solutions for a Resilient Planet](https://www.nsf.gov/pubs/2024/nsf24108/nsf24108.jsp?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery) - starts in Fall 2025
+- [*New NSF Postdoctoral Research Fellowships in Biology focused on AI](https://www.nsf.gov/funding/opportunities/prfb-postdoctoral-research-fellowships-biology)
+- [USDA postdoc program, includes work on aquaculture and data](https://www.nifa.usda.gov/grants/funding-opportunities/agriculture-food-research-initiative-education-workforce-development) - due in Apr each year
+- ~[NSF Postdoctoral Research Fellowships in Biology (PRFB) Program: Biological Research, Understanding and Solutions for a Resilient Planet](https://www.nsf.gov/pubs/2024/nsf24108/nsf24108.jsp?WT.mc_ev=click&WT.mc_id=&utm_medium=email&utm_source=govdelivery)~
 - [Shoals Marine Lab Scientist-in-Residence Fellowship](https://www.shoalsmarinelaboratory.org/sirf) - due Apr 22nd
 - [Gund postdoctoral fellow program (based at the University of Vermont)](http://go.uvm.edu/nia9k) - due Nov 11th
 - [NSF Ocean Sciences postdoctoral fellow program (based anywhere)](https://beta.nsf.gov/funding/opportunities/ocean-sciences-postdoctoral-research-fellowships-oce-prf-0) - Due Nov 11th each year
