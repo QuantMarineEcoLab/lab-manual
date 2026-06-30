@@ -1,2 +1,160 @@
 # UNH and Durham {#UNH-and-Durham}
 
+## Just visiting
+
+# Visiting the Quantitative Marine Ecology Lab (QMEL)
+
+We welcome collaborators, students, visiting scientists, and partners to the Quantitative Marine Ecology Lab (QMEL) at the University of New Hampshire. Our lab combines ecological research, data science, artificial intelligence, and environmental monitoring to better understand and manage coastal and marine ecosystems. Visitors are encouraged to coordinate with a lab member in advance to schedule meetings, tours, or seminars.
+
+---
+
+# Location
+
+**Quantitative Marine Ecology Lab (QMEL)**  
+Department of Biological Sciences  
+University of New Hampshire  
+Spaulding Hall
+38 College Road  
+Durham, NH 03824 USA
+
+Google Maps: https://maps.google.com/?q=46+College+Road,+Durham,+NH+03824
+
+---
+
+# Parking
+
+[Visitor parking is available throughout the University of New Hampshire campus](https://www.unh.edu/transportation/parking/visitor-metered-parking).
+
+Recommended options include:
+
+- **Mill Road Visitor Lot** (closest to Rudman Hall)
+- B and F lots (if buying day parking pass)
+- **Edgewood Road Visitor Lot**
+- Metered parking spaces located across campus
+
+Parking regulations are enforced year-round. Current parking information, maps, and visitor permits can be found on the UNH Parking & Transportation website.
+
+---
+
+# Public Transit
+
+### From Boston
+
+The **Amtrak Downeaster** provides direct rail service between Boston North Station and Durham, NH (it stops on campus)
+
+- Travel time: approximately 1 hour 20 minutes
+- Durham station is approximately a 10-minute walk from QMEL
+
+### Local Transit
+
+The **COAST** regional bus system connects Durham with Portsmouth, Dover, Rochester, and surrounding communities.
+
+---
+
+# Flying to Durham
+
+The nearest airports are:
+
+| Airport | Approximate Drive |
+|----------|------------------:|
+| Manchester-Boston Regional Airport (MHT) | 50 minutes |
+| Boston Logan International Airport (BOS) | 1.5 hours |
+| Portland International Jetport (PWM) | 1.5 hours |
+
+Rental cars are available at all airports. Rideshare services (Uber/Lyft) are readily available from Manchester and Boston. Most people fly into Boston Logan and take the Amtrak to Durham or a bus. The Amtrak takes you directly to campus, but the train station isn't that close to Boston Logan. Alternatively, [C&J buslines](https://www.ridecj.com/) picks you up at the airport, but only has stops in Portsmouth and Dover. 
+
+---
+
+# Lodging
+
+Visitors typically stay in:
+
+- Durham
+- Portsmouth (recommended for restaurants and waterfront)
+- Dover
+
+---
+
+# Things to See Nearby
+
+## Portsmouth
+
+Historic downtown Portsmouth is one of New England's premier coastal cities and offers:
+
+- Strawbery Banke Museum
+- Prescott Park
+- Waterfront restaurants
+- Boutique shopping
+- Music Hall performances
+
+---
+
+## Great Bay Estuary
+
+One of the largest estuaries in New England, Great Bay features:
+
+- Coastal marshes
+- Oyster reefs
+- Wildlife viewing
+- Kayaking
+- Bird watching
+
+Many of our research projects take place within the Great Bay ecosystem.
+
+---
+
+## Odiorne Point State Park
+
+Located approximately 25 minutes from campus, Odiorne Point offers:
+
+- Rocky shoreline
+- Ocean views
+- Walking trails
+- Tide pools
+- Seacoast Science Center
+
+---
+
+## Hampton Beach
+
+A classic New England beach with:
+
+- Sandy beaches
+- Boardwalk
+- Seafood restaurants
+- Summer concerts
+
+Approximately 30 minutes from campus.
+
+---
+
+## White Mountains
+
+If extending your visit, northern New Hampshire offers:
+
+- Hiking
+- Mountain scenery
+- Fall foliage
+- Franconia Notch State Park
+- Mount Washington
+
+Approximately 2 hours from Durham.
+
+---
+
+## Boston
+
+Boston is easily accessible by train or car and offers:
+
+- Freedom Trail
+- New England Aquarium
+- Museum of Science
+- Fenway Park
+- World-class dining and museums
+
+Approximately 1–1.5 hours from Durham.
+
+---
+
+
+If you are planning a visit, please contact your QMEL host to coordinate parking, building access, and meeting logistics. We look forward to welcoming you to the University of New Hampshire.
