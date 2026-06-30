@@ -2,13 +2,13 @@
 
 ## Just visiting
 
-# Visiting the Quantitative Marine Ecology Lab (QMEL)
+### Visiting the Quantitative Marine Ecology Lab (QMEL)
 
 We welcome collaborators, students, visiting scientists, and partners to the Quantitative Marine Ecology Lab (QMEL) at the University of New Hampshire. Our lab combines ecological research, data science, artificial intelligence, and environmental monitoring to better understand and manage coastal and marine ecosystems. Visitors are encouraged to coordinate with a lab member in advance to schedule meetings, tours, or seminars.
 
 ---
 
-# Location
+### Location
 
 **Quantitative Marine Ecology Lab (QMEL)**  
 Department of Biological Sciences  
@@ -17,11 +17,20 @@ Spaulding Hall
 38 College Road  
 Durham, NH 03824 USA
 
-Google Maps: https://maps.google.com/?q=46+College+Road,+Durham,+NH+03824
+📍 [Spaulding Hall, UNH](https://www.google.com/maps/search/?api=1&query=Spaulding+Hall+UNH+Durham+NH)
+
+<iframe
+  src="https://www.google.com/maps?q=Spaulding%20Hall%20UNH%20Durham%20NH&output=embed"
+  width="100%"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy">
+</iframe>
 
 ---
 
-# Parking
+### Parking
 
 [Visitor parking is available throughout the University of New Hampshire campus](https://www.unh.edu/transportation/parking/visitor-metered-parking).
 
@@ -36,22 +45,22 @@ Parking regulations are enforced year-round. Current parking information, maps, 
 
 ---
 
-# Public Transit
+### Public Transit
 
-### From Boston
+#### From Boston
 
 The **Amtrak Downeaster** provides direct rail service between Boston North Station and Durham, NH (it stops on campus)
 
 - Travel time: approximately 1 hour 20 minutes
 - Durham station is approximately a 10-minute walk from QMEL
 
-### Local Transit
+#### Local Transit
 
 The **COAST** regional bus system connects Durham with Portsmouth, Dover, Rochester, and surrounding communities.
 
 ---
 
-# Flying to Durham
+### Flying to Durham
 
 The nearest airports are:
 
@@ -65,19 +74,30 @@ Rental cars are available at all airports. Rideshare services (Uber/Lyft) are re
 
 ---
 
-# Lodging
+### Lodging
 
 Visitors typically stay in:
 
-- Durham
-- Portsmouth (recommended for restaurants and waterfront)
-- Dover
+#### Durham (walkable / closest to UNH)
+
+- Tideline (on-site / campus-adjacent lodging & gathering space)  
+  https://www.google.com/travel/hotels/entity/CgkIhrjAr9_lsnoQAQ  
+
+- Three Chimneys Inn  
+  https://www.threechimneysinn.com/  
+
+- Holiday Inn Express Durham – UNH  
+  https://www.ihg.com/holidayinnexpress/hotels/us/en/durham/durnh/hoteldetail  
+
+#### Portsmouth (recommended for restaurants and waterfront, on bus line to campus)
+
+#### Dover (cheaper and lots of availability, on bus line to campus)
 
 ---
 
-# Things to See Nearby
+### Things to See Nearby
 
-## Portsmouth
+#### Portsmouth
 
 Historic downtown Portsmouth is one of New England's premier coastal cities and offers:
 
@@ -89,7 +109,7 @@ Historic downtown Portsmouth is one of New England's premier coastal cities and 
 
 ---
 
-## Great Bay Estuary
+#### Great Bay Estuary
 
 One of the largest estuaries in New England, Great Bay features:
 
@@ -103,7 +123,7 @@ Many of our research projects take place within the Great Bay ecosystem.
 
 ---
 
-## Odiorne Point State Park
+#### Odiorne Point State Park
 
 Located approximately 25 minutes from campus, Odiorne Point offers:
 
@@ -115,7 +135,7 @@ Located approximately 25 minutes from campus, Odiorne Point offers:
 
 ---
 
-## Hampton Beach
+#### Hampton Beach
 
 A classic New England beach with:
 
@@ -128,7 +148,7 @@ Approximately 30 minutes from campus.
 
 ---
 
-## White Mountains
+#### White Mountains
 
 If extending your visit, northern New Hampshire offers:
 
