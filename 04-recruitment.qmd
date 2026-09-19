@@ -96,7 +96,7 @@ Depending on your specific interests, I might not be the best advisor for you at
 ## Postdoctoral fellows
 
 
-### Environmental monitoring postdoc 
+### Environmental monitoring postdoc (currently filled, may advertise another position in 2027)
 
 This position (1-3 years) is funded by a [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2443276&HistoricalAwards=false) focused on the optimal design of long-term monitoring programs. Head to [link](https://usnh.wd5.myworkdayjobs.com/en-US/Careers/job/Postdoctoral-Research-Associate_JR8467) for the official application and send a brief email to [qmel.admin@unh.edu](mailto:qmel.admin@unh.edu). Preference for in-person or hybrid postdoc. Open to considering remote candidates for this or part-time roles. 
 
@@ -130,8 +130,86 @@ I am also open to collaboratively working on proposals to help fund independent 
 
 
 
+## Research scientist/project manager
+
+### Position Overview
+
+The **White Lab** and **Jellison Lab** at the **University of New Hampshire (UNH)** are seeking a motivated
+and skilled **Research Technician / Project Manager** to support a NOAA Saltonstall-Kennedy-funded project
+focused on developing and deploying a network of oyster biosensors to improve aquaculture yield and food
+safety in the Gulf of Maine. The position is a two-year, grant-funded role beginning in **Fall 2026**,
+working under the primary guidance of PI **Dr. Easton White** and co-PI **Dr. Brittany Jellison**.
+
+This is an exciting opportunity to work at the intersection of **marine ecology**, **aquaculture
+technology**, and **data science**, contributing to cutting-edge research with direct real-world impact for
+oyster farmers and coastal managers in New England.
+
+Official position to be posted soon. In the meantime, head to [link](https://forms.office.com/r/sAbUJvMiRv) to complete an interest survey and send a brief email to [qmel.admin@unh.edu](mailto:qmel.admin@unh.edu) with a cover letter and CV indicating your interest in the position.
 
 
+### About the Project
+
+Shellfish aquaculture is a rapidly growing industry in New Hampshire and the broader Gulf of Maine region,
+contributing over **\$4.6 million** in economic benefits to New Hampshire alone. However, increasing
+environmental stressors — including warming waters, heatwaves, hypoxia, and disease — threaten the health
+and productivity of farmed oysters. [This project will build and deploy a network of **high-frequency,
+non-invasive (HFNI) biosensors** that use oyster valve gaping behavior as a real-time indicator of animal
+health and environmental stress](https://colsa.unh.edu/resource/oyster-biosensors-tool-real-time-behavior-tracking).
+
+#### The project has three core objectives:
+
+1. Build a field-ready network of oyster biosensors using **Arduino microcontrollers**, **Hall effect
+   sensors**, **LoRa radio modules**, and **solar-powered buoys**.
+2. Conduct controlled laboratory experiments at the **UNH Coastal Marine Lab (CML)** in Rye, NH to link
+   gaping behavior with oyster stress responses and health outcomes under various stressor scenarios (e.g.,
+   temperature extremes, handling stress, acidification).
+3. Deploy and test the biosensor network at two active oyster farms in the Gulf of Maine (**Little Bay, NH**
+   and **Casco Bay, ME**), providing farmers with daily health check-ins and live-streamed data.
+
+
+
+### Key Responsibilities
+
+- Assist in the construction, testing, and maintenance of oyster biosensor units (electronics, solar panels,
+  waterproof housing, and data transmission systems).
+- Lead and assist with controlled laboratory experiments at UNH CML, including oyster husbandry,
+  experimental setup, and physiological assays (enzyme activity, antioxidant assays, condition index, oxygen
+  consumption).
+- Conduct field deployments of biosensor units at partner oyster farms; collect, manage, and quality-control
+  large streams of sensor data.
+- Assist with statistical analysis of biosensor and environmental data, including generalized linear models
+  and time-series analysis.
+- Coordinate project logistics, timelines, and communication among team members, partner farmers, and
+  collaborating organizations.
+- Mentor undergraduate interns, including students from the **Minorities in Aquaculture (MIA)** program.
+- Contribute to the preparation of peer-reviewed manuscripts, technical reports, and open-source code and
+  data products.
+- Represent the project at outreach events, including **NH Shellfish Alliance** monthly meetings and the
+  annual **New Hampshire Oyster Week**.
+- Assist with project reporting to NOAA and other stakeholders.
+
+
+
+### Required Qualifications
+
+- Bachelor's degree in marine science, biology, environmental science, engineering, or a closely related
+  field *(Master's degree preferred)*.
+- Experience with field and/or laboratory research in marine or aquatic systems.
+- Strong organizational and project management skills, with the ability to coordinate multiple tasks and
+  personnel simultaneously.
+- Ability and willingness to conduct fieldwork in coastal marine environments, including work on boats and in
+  variable weather conditions.
+- Strong written and verbal communication skills.
+
+
+### Preferred Qualifications
+
+- Experience with electronics, Arduino microcontrollers, or similar embedded systems.
+- Familiarity with bivalve biology, aquaculture, or shellfish physiology.
+- Experience with data analysis in **R**, **Python**, or similar programming environments.
+- Experience with physiological assays (e.g., enzyme activity, condition index measurements).
+- Experience mentoring undergraduate students or working in a team research environment.
+- Familiarity with open-source data and code practices.
 
 
 ## Other positions at UNH
