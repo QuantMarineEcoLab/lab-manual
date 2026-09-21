@@ -42,7 +42,7 @@ If you are interested in joining the lab, head to [link](https://forms.office.co
 I am accepting applications for 2027. I will not be accepting new students in 2028. 
 
 
-### Priority recruitment (PhD in quantitative ecology
+### Priority recruitment (PhD in quantitative ecology)
 
 See below for positions more generally. The priority for graduate student recruitment is for a PhD student to start in 2027. This position is part of NSF's new industry-university partnership program. Fellows will work collaboratively with **QMEL** and **Coastal Measures Inc.** to build and deploy affordable, scalable environmental sensors enhanced by **AI/ML pipelines** for quality assurance, quality control (QA/QC), and trend detection. Research will have direct applications for coastal resource managers, aquaculture operators, fisheries agencies, and government stakeholders, with the potential to scale from **local to national deployment**.
 
