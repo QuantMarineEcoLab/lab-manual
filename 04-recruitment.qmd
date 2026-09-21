@@ -39,8 +39,51 @@ If you are interested in joining the lab, head to [link](https://forms.office.co
   title="Fall 2025 College of Life Sciences and Agriculture (COLSA) Grad Open House">
 </iframe>
 
+I am accepting applications for 2027. I will not be accepting new students in 2028. 
 
-I am already receiving inquiries for 2027, especially for candidates interested in co-developing a fellowship application with me. 
+
+### Priority recruitment (PhD in quantitative ecology
+
+See below for positions more generally. The priority for graduate student recruitment is for a PhD student to start in 2027. This position is part of NSF's new industry-university partnership program. Fellows will work collaboratively with **QMEL** and **Coastal Measures Inc.** to build and deploy affordable, scalable environmental sensors enhanced by **AI/ML pipelines** for quality assurance, quality control (QA/QC), and trend detection. Research will have direct applications for coastal resource managers, aquaculture operators, fisheries agencies, and government stakeholders, with the potential to scale from **local to national deployment**.
+
+#### Research Areas
+
+Research areas may include:
+
+- Software development for environmental sensor systems and data pipelines
+- AI/ML for environmental data QA/QC and trend assessment
+- Shellfish aquaculture and fisheries monitoring *(including the use of shellfish as biosensors of water quality)*
+- Water quality sensing, calibration, and assessment
+- Coastal habitat restoration tracking
+- Field deployment, testing, and commercialization of sensor technologies
+- Environmental data science and quantitative ecology
+
+#### Qualifications
+
+We are seeking **motivated, collaborative, and technically skilled** individuals. A background in software engineering or strong computational skills are required, as fellows will be developing software tools and data pipelines in direct collaboration with Coastal Measures Inc.
+
+##### Required
+
+- Bachelor's in computer science, software engineering, data science, marine science, environmental science, applied mathematics, ocean engineering, or a closely related field
+- Strong programming skills *(e.g., Python, R, or similar)* and experience with software development
+- Interest in environmental monitoring, ecological data, or coastal systems
+- Must be a **U.S. citizen, U.S. national, or permanent resident** *(NSF program requirement)*
+- Must be in the **first** *(starting in Fall 2027)* or **second year** *(started in Fall 2026)* of doctoral study at time of program entry
+
+#### Preferred
+
+- Master's degree in computer science, software engineering, data science, marine science, environmental science, applied mathematics, ocean engineering, or a closely related field
+- Experience with machine learning, AI, or data pipeline development
+- Familiarity with sensor systems, embedded systems, or IoT technologies
+- Interest in or experience with field-based coastal or marine research
+- Strong written and oral communication skills and ability to work across disciplinary and organizational boundaries
+
+
+
+
+
+
+### Grad positions more broadly
 
 Upcoming funding is focused on the following projects:
 
